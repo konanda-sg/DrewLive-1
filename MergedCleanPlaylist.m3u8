@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged2_epg.xml.gz"
-# Last forced update: 2025-08-15T10:56:10.962827Z
+# Last forced update: 2025-08-15T11:09:36.767372Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
@@ -540,6 +540,8 @@ http://44.32.200.212:5004/auto/v16
 http://38.143.48.212:9981/stream/channelid/818444930?profile=pass
 #EXTINF:-1 tvg-id="bravo.canada.ca" tvg-logo="https://media.starlite.best/bravo.canada.ca.png" group-title="AriaPlus - Canada",Bravo
 http://38.143.48.212:9981/stream/channelid/1866338186?profile=pass
+#EXTINF:-1 group-title="AriaPlus - Canada",CANAL+ ACTION HD
+http://185.236.230.212:9981/play/a0bw
 #EXTINF:-1 group-title="AriaPlus - Canada",CANAL+ SPORT
 http://185.236.230.212:9981/play/a0bu
 #EXTINF:-1 tvg-id="Cartoon.Network.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png" group-title="AriaPlus - Canada",Cartoon Network
