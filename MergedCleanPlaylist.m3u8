@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged2_epg.xml.gz"
-# Last forced update: 2025-08-17T18:45:51.636017Z
+# Last forced update: 2025-08-17T19:08:14.894150Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
@@ -13747,6 +13747,11 @@ https://pigscanflyyy-scraper.vercel.app/watch/channel/5d4af6aa99e9ee7912136ea5be
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://pigscanflyyy-scraper.vercel.app/watch/channel/ebcdba09e8a64f24e07c4d9b67267753.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/84ixnr1754726725.jpg/small" tvg-id="24.7.Dummy.us" group-title="Tims247",Nantes vs PSG (Live Stream)
+#EXTVLCOPT:http-origin=https://kleanplay.shop
+#EXTVLCOPT:http-referrer=https://kleanplay.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://pigscanflyyy-scraper.vercel.app/watch/channel/b6e4dfbafc74c79660a97da4052811cb.m3u8
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/nba.png" tvg-id="24.7.Dummy.us" group-title="Tims247",NBA TV
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
