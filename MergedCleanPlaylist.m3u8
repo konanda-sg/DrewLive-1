@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged2_epg.xml.gz"
-# Last forced update: 2025-08-17T17:53:34.077946Z
+# Last forced update: 2025-08-17T18:24:12.566881Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
@@ -10425,25 +10425,32 @@ https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 #EXTINF:-1  tvg-name="Yu-Gi-Oh!" tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" tvg-chno="4030" group-title="PlutoTV USA",Yu-Gi-Oh!
 https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 
+#EXTGRP:PPVLand - Basketball Hub
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Fever at Sun
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L5MTN2AjYhZmZ5IzNtUDM0gTLwMWM00SY5ADMtUTZ1EzYlRmY/master.m3u8
+
 #EXTGRP:PPVLand - Global Football Streams
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer2.png" group-title="PPVLand - Global Football Streams",Manchester United vs. Arsenal
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDZlZmJmNjllMTRiLTA0NWItNDViNC1iMmVkLTI0MWRhYTFk/master.m3u8?md5=QaXeFdjKUlkZU68HtTJSfA&expires=1755494247&t=1755451047
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDZlZmJmNjllMTRiLTA0NWItNDViNC1iMmVkLTI0MWRhYTFk/master.m3u8?md5=uAyoYqhW3NKJjaMA6Lkk6g&expires=1755498331&t=1755455131
 
 #EXTGRP:PPVLand - Live Channels 24/7
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",(North) Korean Central Television
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=v44n_J2CdQI89EfdpMa8Sw&expires=1755494294&t=1755451094
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=LgKkimWnSqT_I1gnhPacHg&expires=1755498381&t=1755455181
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 COWS
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjljZ1MWOkRWN4IjZtcTM5gTL3ADZ00SYjNTOtQmM5M2NyAzM/master.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family​​‌‌​​​​‌‌​‌‌​​‌‌​​​‌​‌​‌​‌​​​​‌ Guy
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌​​​‌‌‌‌​​​​ Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
@@ -10452,7 +10459,7 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=XEaAKI-3OxNSiznpcvIA7g&expires=1755494256&t=1755451056
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LkFmM0MDZlNmM3EzYtUmN5IWL3ETZ00CN1UWOtUjM4YDNxI2M/master.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -10464,12 +10471,12 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDg1MTJmMmM2Y2RlLWE3N2EtZWQyNC1iMzlmLWEyZmZlOWMw/master.m3u8?md5=4uukylHh8C0X38qE3RAT6w&expires=1755494161&t=1755450961
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDg1MTJmMmM2Y2RlLWE3N2EtZWQyNC1iMzlmLWEyZmZlOWMw/master.m3u8?md5=BeV9-AE3V9arRgELIW1AWA&expires=1755498250&t=1755455050
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="PPVLand - NFL Action",Jacksonville Jaguars vs. New Orleans Saints
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ODA1ODRkYjc5YzdjLTQwYTktZWZlNC1iZTg5LWE0MTE2MWUy/master.m3u8?md5=iERWWA4z-85N6WxtIT4liw&expires=1755494142&t=1755450942
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ODA1ODRkYjc5YzdjLTQwYTktZWZlNC1iZTg5LWE0MTE2MWUy/master.m3u8?md5=mLeEW_QNGmkjoGHGj83I4w&expires=1755498230&t=1755455030
 
 #EXTGRP:RokuTV
 #EXTINF:-1  tvg-name="ABC7 Sarasota" tvg-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/50b18dea9c5c51568c1343fcd3d88ec9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746557592232_WWSB_EPG_Hud_LogoWWSB_HUD_logo_260x147_Centered.png" tvg-chno="4162" group-title="RokuTV",ABC7 Sarasota
@@ -13465,11 +13472,6 @@ https://pigscanflyyy-scraper.vercel.app/watch/channel/7e4da2868f0546b7f269c36c85
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://pigscanflyyy-scraper.vercel.app/watch/channel/9f8976152bf486b03ea82cf4a2a84c01.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/0b83e31754726702.jpg" tvg-id="24.7.Dummy.us" group-title="Tims247",Angers SCO vs Paris FC (Live Stream)
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://pigscanflyyy-scraper.vercel.app/watch/channel/5fd7865daf66031499dd77b93a9bc855.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvjVZy7k/Frame-1-5.png" tvg-id="24.7.Dummy.us" group-title="Tims247",Arena Sport 1 ((Croatia) Hrvatska)
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
@@ -13555,11 +13557,6 @@ https://pigscanflyyy-scraper.vercel.app/watch/channel/CESwuPhe1iSlp6ray6nEMozLtR
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://pigscanflyyy-scraper.vercel.app/watch/channel/kD4hG2fW9pA7uN1bS8mL5yQ0cX6oZr.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/klvu4c1751449884.jpg" tvg-id="24.7.Dummy.us" group-title="Tims247",Celta de Vigo vs Getafe (Live Stream)
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://pigscanflyyy-scraper.vercel.app/watch/channel/16a5e71fa2c4e53107305c73c5b57f29.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true" tvg-id="24.7.Dummy.us" group-title="Tims247",Comet
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
@@ -13609,7 +13606,7 @@ https://pigscanflyyy-scraper.vercel.app/watch/channel/d1a53d061de53b59499c1616ac
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://pigscanflyyy-scraper.vercel.app/watch/channel/94bba1d6ce1de6a401947da75fa1e972.m3u8
+https://pigscanflyyy-scraper.vercel.app/watch/channel/788aa97596a54bbe1d90c9f8dce59050.m3u8
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/espn.png" tvg-id="24.7.Dummy.us" group-title="Tims247",ESPN
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
@@ -13725,26 +13722,6 @@ https://pigscanflyyy-scraper.vercel.app/watch/channel/pajip6maru1rlcoz1qizebitoc
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://pigscanflyyy-scraper.vercel.app/watch/channel/6fad2dc57f9f733c48f8c35ba8aeb119.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/tu1ztb1750276759.jpg" tvg-id="24.7.Dummy.us" group-title="Tims247",Lokomotive Leipzig vs Schalke 04 (Live Stream)
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://pigscanflyyy-scraper.vercel.app/watch/channel/7b60b3fa21ded58ed634890942a2bdff.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/5xm6d01750320127.jpg" tvg-id="24.7.Dummy.us" group-title="Tims247",Manchester United vs Arsenal (Peacock (SD))
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://pigscanflyyy-scraper.vercel.app/watch/channel/33f53054fc229a4f3567006bb5763588.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/5xm6d01750320127.jpg" tvg-id="24.7.Dummy.us" group-title="Tims247",Manchester United vs Arsenal (Peacock)
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://pigscanflyyy-scraper.vercel.app/watch/channel/5ca5a8382f5318461666057ef85be50e.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/5xm6d01750320127.jpg" tvg-id="24.7.Dummy.us" group-title="Tims247",Manchester United vs Arsenal (Sky Sports Main Event)
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://pigscanflyyy-scraper.vercel.app/watch/channel/173eb3a410dbe707e05ab4b0a4cd1f42.m3u8
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/marquee.png" tvg-id="24.7.Dummy.us" group-title="Tims247",Marquee Sports Network
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
