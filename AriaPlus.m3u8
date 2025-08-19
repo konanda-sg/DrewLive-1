@@ -15,14 +15,16 @@ http://212.95.30.186:9981/stream/channelid/817337321?profile=pass
 http://212.186.45.34:9981/stream/channelid/906723447?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf-kids-at.png" group-title="AriaPlus - Australia",ORF Kids
 https://web12.mdn.ors.at/orf/web12/qxb/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Puls4.svg/250px-Puls4.svg.png" group-title="AriaPlus - Australia",Puls 4
+http://212.95.30.186:9981/stream/channelid/1630575394?profile=pass
 #EXTINF:-1 tvg-id="ServusTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/servus-tv-at.png" group-title="AriaPlus - Australia",ServusTV HD
 https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
 #EXTINF:-1 tvg-id="Tirol TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/tirol-tv-at.png" group-title="AriaPlus - Australia",Tirol TV
 http://212.186.45.34:9981/stream/channelid/308149845?profile=pass
 #EXTINF:-1 tvg-id="ProSieben Austria" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/prosieben-austria-at.png" group-title="AriaPlus - Australia",ProSieben Austria
-https://hometv.andismirre.de/stream/channelid/446007160?profile=ffmpeg
+http://212.95.30.186:9981/stream/channelid/719855917?profile=pass
 #EXTINF:-1 tvg-id="Kabel Eins Austria" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/kabel-eins-austria-at.png" group-title="AriaPlus - Australia",Kabel Eins Austria
-https://hometv.andismirre.de/stream/channelid/446007160?profile=ffmpeg
+http://212.95.30.186:9981/stream/channelid/1665759621?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-au.png" group-title="AriaPlus - Australia",ABC TV
 https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-entertains-au.png" group-title="AriaPlus - Australia",ABC Entertains
@@ -201,6 +203,8 @@ http://185.236.230.212:9981/play/a0bw
 http://185.236.230.212:9981/play/a0bu
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Deluxe_Music_Logo_2019.svg/1200px-Deluxe_Music_Logo_2019.svg.png" group-title="AriaPlus - United States",Deluxe Music SD
 https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/toggo-plus-de.png" group-title="AriaPlus - United States",Toggo Plus
+http://212.95.30.186:9981/stream/channelid/288150308?profile=pass
 #EXTINF:-1 group-title="AriaPlus - United States",Boing Plus
 http://195.32.117.185:9981/stream/channelid/259728202?profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4nbQ0Bt1/Logo-of-the-Korean-Central-Television-svg.png" group-title="AriaPlus - North Korea",Korea Central Television (KCTV)
