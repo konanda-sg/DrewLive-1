@@ -215,6 +215,8 @@ http://195.32.117.185:9981/stream/channelid/259728202?profile=pass
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6362/index.m3u8
 #EXTINF:-1 tvg-logo="hthttps://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/TV3_Plus_Logo_2021.svg/1200px-TV3_Plus_Logo_2021.svg.png" group-title="AriaPlus - United States",TV3 Plus
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12001/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canal_5_Mexico_logo_2014.svg" group-title="AriaPlus - Canada",Canal 5
+http://170.78.211.115:8000/play/a0ll/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4nbQ0Bt1/Logo-of-the-Korean-Central-Television-svg.png" group-title="AriaPlus - North Korea",Korea Central Television (KCTV)
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-logo="https://tv.wyatts-server.com/imagecache/8616" tvg-id="2873775b4b455d688ceebe2b2ed817dc" group-title="AriaPlus - New Zealand",TVNZ 1
