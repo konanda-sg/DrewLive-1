@@ -203,6 +203,12 @@ http://185.236.230.212:9981/play/a0bu
 https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/toggo-plus-de.png" group-title="AriaPlus - United States",Toggo Plus
 http://212.95.30.186:9981/stream/channelid/288150308?profile=pass
+#EXTINF:-1 tvg-logo="" group-title="AriaPlus - New Zealand",Lenz Animation
+https://lenz.splus.ir/PLTV/88888888/224/3221227043/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AriaPlus - New Zealand",Lenz Movie
+https://lenz.splus.ir/PLTV/88888888/224/3221227021/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AriaPlus - United States",4Music
+https://itthls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/canale-5-it.png" group-title="AriaPlus - Canada",Canale 5
 https://cachehsi1a.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 #EXTINF:-1 group-title="AriaPlus - United States",Boing Plus
