@@ -433,6 +433,20 @@ http://93.96.252.173:9981/stream/channelid/861842813?ticket=69B565C18AF55A66CEA8
 http://93.96.252.173:9981/stream/channelid/566873612?ticket=A4202C757A869DCCC4150972A5D9B7EE944E6BA9&profile=pass
 #EXTINF:-1 tvg-id="E4.+1.uk" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/E4-%2B1-RGB-Colour-Positive-255x140.png?itok=B49Vws0Y" group-title="AriaPlus - United Kingdom",E4 +1
 http://93.96.252.173:9981/stream/channelid/125300566?ticket=E8A3A7919F8893899FC4E41CE6457D54959E985D&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png" group-title="AriaPlus - United States",CBS (WCBS)
+http://108.14.66.42:5004/auto/v2.1
+#EXTINF:-1 tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nbc_logo_2022_verticalsvg.png" group-title="AriaPlus - United States",NBC (WNBC)
+http://108.14.66.42:5004/auto/v4.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="AriaPlus - United States",ABC (WABC)
+http://108.14.66.42:5004/auto/v7.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FOX_wordmark-orange_2.svg/1200px-FOX_wordmark-orange_2.svg.png" group-title="AriaPlus - United States",FOX (WNYW)
+http://108.14.66.42:5004/auto/v5.1
+#EXTINF:-1 tvg-logo="https://shop.cwtv.com/_next/image?url=https%3A%2F%2Fs3.us-west-2.amazonaws.com%2Fprod-cwtenantstack-citadelbucket0907d78c-ma0g5pjr1rvu%2Fcw-logo-1735322808088.webp&w=640&q=75" group-title="AriaPlus - United States",The CW (WPIX)
+http://108.14.66.42:5004/auto/v11.1
+#EXTINF:-1 tvg-logo="https://www.univision.ca/wp-content/uploads/2025/05/unvision-logo-without-words.webp" group-title="AriaPlus - United States",Univision
+http://108.14.66.42:5004/auto/v41.1
+#EXTINF:-1 tvg-logo="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-HD.png" group-title="AriaPlus - United States",Telemundo
+http://108.14.66.42:5004/auto/v47.1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png" group-title="AriaPlus - United States",TruTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="AriaPlus - United States",TNT
