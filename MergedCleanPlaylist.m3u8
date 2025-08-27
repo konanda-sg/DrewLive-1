@@ -637,6 +637,10 @@ https://tv.wyatts-server.com/stream/channelid/1442196725?profile=pass
 https://i.mjh.nz/.r/bravo-plus1.m3u8
 #EXTINF:-1 tvg-logo="https://tv.wyatts-server.com/imagecache/8623" tvg-id="60ead8a7f72119acb3449cf2746e1832" group-title="AriaPlus - New Zealand",eden
 https://tv.wyatts-server.com/stream/channelid/668527200?profile=pass
+#EXTINF:-1 tvg-logo="" group-title="AriaPlus - New Zealand",Lenz Animation
+https://lenz.splus.ir/PLTV/88888888/224/3221227043/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AriaPlus - New Zealand",Lenz Movie
+https://lenz.splus.ir/PLTV/88888888/224/3221227021/1.m3u8
 #EXTINF:-1 tvg-id="ParliamentTV.nz" group-title="AriaPlus - New Zealand",Parliament TV
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.wyatts-server.com/imagecache/8621" tvg-id="cc02633c8f0d0f7c0945de5160e4afd5" group-title="AriaPlus - New Zealand",Rush
@@ -851,6 +855,8 @@ http://81.78.159.220:7000/stream/channelid/848211560?ticket=C9B6BA61D2588D9F28D8
 #EXTGRP:AriaPlus - United States
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/2x2_TV_Logo.svg" group-title="AriaPlus - United States",2x2
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AriaPlus - United States",4Music
+https://itthls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="AriaPlus - United States",ABC (WABC)
 http://108.14.66.42:5004/auto/v7.1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/adult-swim-ca.png" group-title="AriaPlus - United States",Adult Swim (5PM-6AM ONLY)
