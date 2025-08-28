@@ -267,6 +267,10 @@ https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/moviestar-plus-es.png" group-title="AriaPlus - United States",Movistar Plus SD
 http://185.189.225.150:85/LaSexta/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-cocuk-tr.png" group-title="AriaPlus - United Kingdom",TRT Cocuk
+http://212.252.72.103:7070/play/a03n
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/minika-cocuk-tr.png" group-title="AriaPlus - United Kingdom",minikaCOCUK
+http://212.252.72.103:7070/play/a03n
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="AriaPlus - United Kingdom",BBC One
 http://81.78.159.220:7000/stream/channelid/1770799995?ticket=3364C2CFA85C6C7C993218102184D61C0313A863&profile=pass
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" group-title="AriaPlus - United Kingdom",BBC Two
