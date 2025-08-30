@@ -199,6 +199,8 @@ http://31.121.110.30:4000/play/a025/index.m3u8
 http://185.236.230.212:9981/play/a0bw
 #EXTINF:-1 group-title="AriaPlus - Canada",CANAL+ SPORT
 http://185.236.230.212:9981/play/a0bu
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-plus-dk.png" group-title="AriaPlus - United States",TV3 Plus
+http://185.233.253.71:9981/stream/channelid/1576049852?ticket=BC98741F1437DD6824CA9FCD4161F58550931462&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Deluxe_Music_Logo_2019.svg/1200px-Deluxe_Music_Logo_2019.svg.png" group-title="AriaPlus - United States",Deluxe Music SD
 https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/toggo-plus-de.png" group-title="AriaPlus - United States",Toggo Plus
