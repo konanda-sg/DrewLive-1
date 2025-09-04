@@ -219,6 +219,10 @@ https://lenz.splus.ir/PLTV/88888888/224/3221227021/1.m3u8
 https://itthls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AriaPlus - United States",Caltex Music
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States",Star Plus
+http://103.182.170.32:8888/play/a03o
+#EXTINF:-1 group-title="AriaPlus - United States",Star Plus
+http://103.182.170.32:8888/play/a03z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/canale-5-it.png" group-title="AriaPlus - Canada",Canale 5
 https://cachehsi1a.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 #EXTINF:-1 group-title="AriaPlus - United States",Boing Plus
