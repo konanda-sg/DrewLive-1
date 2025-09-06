@@ -223,10 +223,12 @@ https://vid1.caltexmusic.com/hls/caltextv.m3u8
 http://103.182.170.32:8888/play/a03o
 #EXTINF:-1 group-title="AriaPlus - United States",Star Plus
 http://103.182.170.32:8888/play/a03z
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/canale-5-it.png" group-title="AriaPlus - Canada",Canale 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/canale5-it.png" group-title="AriaPlus - Canada",Canale 5
 https://cachehsi1a.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/focus-it.png" group-title="AriaPlus - United States",Focus
+http://77.39.161.42:55555/Focus%20HD
 #EXTINF:-1 group-title="AriaPlus - United States",Boing Plus
-http://195.32.117.185:9981/stream/channelid/259728202?profile=pass
+http://77.39.161.42:55555/Boing%20Plus
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/250px-LRT_Plius_Logo_2022.svg.png" group-title="AriaPlus - United States",LRT Plius
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6362/index.m3u8
 #EXTINF:-1 tvg-logo="hthttps://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/TV3_Plus_Logo_2021.svg/1200px-TV3_Plus_Logo_2021.svg.png" group-title="AriaPlus - United States",TV3 Plus
@@ -591,3 +593,5 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
 #EXTINF:-1 tvg-id="QVC2.us" tvg-name="QVC2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/QVC2_%282017%29.svg/revision/latest?cb=20210225125729" group-title="AriaPlus - United States",QVC2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.comunicazione.va/content/dam/comunicazione/tentativi-e-proposte/logo%20vatican%20media.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" group-title="AriaPlus - Canada",Vatican Media
+http://77.39.161.42:55555/Vatican%20Media%20HD
