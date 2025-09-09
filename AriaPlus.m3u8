@@ -107,6 +107,12 @@ https://a1xs.vip/700006
 https://a1xs.vip/700007
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/vrt-canvas-be.png" group-title="AriaPlus - Canada",VRT Canvas
 http://192.145.57.85:9981/stream/channelid/288829476?profile=pass
+#EXTINF:-1 tvg-id="Canal.Saude.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/canal-saude-br.png" group-title="AriaPlus - Canada",Canal Saude
+https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
+#EXTINF:-1 tvg-id="Agro.Canal.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/agro-canal-br.png" group-title="AriaPlus - Canada",Agro Canal
+https://aovivo.equipea.com.br:5443/aovivort/streams/RmvrJTkqJYoGD6gD1725309082818.m3u8
+#EXTINF:-1 tvg-id="Canal.Rural.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/canal-rural-br.png" group-title="AriaPlus - Canada",Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="APTN.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/aptn-ca.png" group-title="AriaPlus - Canada",APTN
 http://38.143.48.212:9981/stream/channelid/818444930?profile=pass
 #EXTINF:-1 tvg-id="bravo.canada.ca" tvg-logo="https://media.starlite.best/bravo.canada.ca.png" group-title="AriaPlus - Canada",Bravo
