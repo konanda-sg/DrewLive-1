@@ -2667,7 +2667,7 @@ http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Net
 #EXTGRP:DrewLive Fan Made TV
 #EXTINF:-1  tvg-name="Cannabis Grow" tvg-id="24.7.Dummy.us" tvg-logo="https://grow.dwot.io/logo" group-title="DrewLive Fan Made TV" radio="false",Cannabis Grow
 https://grow.dwot.io/hls/1/stream.m3u8?cachebust=7ad5acb5
-#EXTINF:-1  tvg-name="Classic Cube" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Gamecube.png" group-title="DrewLive Fan Made TV" radio="false",Classic Cube
+#EXTINF:-1  tvg-name="Classic Cube" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Gamecube.png" group-title="DrewLive Fan Made TV" radio="false",Classic Cube
 https://s3.us-east-005.backblazeb2.com/tvcube/hls/0/stream.m3u8?cachebust=61e8d8
 #EXTINF:-1  tvg-name="Drew Live" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Trunks.png" group-title="DrewLive Fan Made TV" radio="false",Drew Live
 http://drewlive24.duckdns.org:8080/hls/stream.m3u8
@@ -8909,68 +8909,68 @@ https://gg.poocloud.in/epl_west-ham/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/southpark/index.m3u8
 
-#EXTGRP:PPVLand - NFL & College Football Action
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/1dfac139e4eddee355b7f9e99a92c043-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Atlanta Falcons vs. Minnesota Vikings
+#EXTGRP:PPVLand - NFL Action
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/1dfac139e4eddee355b7f9e99a92c043-thumbnail.jpg" group-title="PPVLand - NFL Action",Atlanta Falcons vs. Minnesota Vikings
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/minnesotavikings/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/0c185e4b5b35f68327b52afa44eca167-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Buffalo Bills vs. New York Jets
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/0c185e4b5b35f68327b52afa44eca167-thumbnail.jpg" group-title="PPVLand - NFL Action",Buffalo Bills vs. New York Jets
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/newyorkjets/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/f1ec185b2e752b34bc1846f83048c460-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Carolina Panthers vs. Arizona Cardinals
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/f1ec185b2e752b34bc1846f83048c460-thumbnail.jpg" group-title="PPVLand - NFL Action",Carolina Panthers vs. Arizona Cardinals
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/arizonacardinals/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/e9a16eb83ff10772bbde89309105949a-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Chicago Bears vs. Detroit Lions
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/e9a16eb83ff10772bbde89309105949a-thumbnail.jpg" group-title="PPVLand - NFL Action",Chicago Bears vs. Detroit Lions
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/detroitlions/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/6c6d2e33704a4702c605f4352682db26-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Jacksonville Jaguars vs. Cincinnati Bengals
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/6c6d2e33704a4702c605f4352682db26-thumbnail.jpg" group-title="PPVLand - NFL Action",Jacksonville Jaguars vs. Cincinnati Bengals
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/cincinnatibengals/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/607d501e58d006320766fac5f2826087-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Los Angeles Chargers vs. Las Vegas Raiders
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/607d501e58d006320766fac5f2826087-thumbnail.jpg" group-title="PPVLand - NFL Action",Los Angeles Chargers vs. Las Vegas Raiders
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/lasvegasraiders/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/1e626b02529f41982efe6613fbe829c7-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Los Angeles Rams vs. Tennessee Titans
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/1e626b02529f41982efe6613fbe829c7-thumbnail.jpg" group-title="PPVLand - NFL Action",Los Angeles Rams vs. Tennessee Titans
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/tennesseetitans/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/ffa2a4147ea6f4e7c9f24682df92ce7a-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",New England Patriots vs. Miami Dolphins
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/ffa2a4147ea6f4e7c9f24682df92ce7a-thumbnail.jpg" group-title="PPVLand - NFL Action",New England Patriots vs. Miami Dolphins
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/miamidolphins/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/d653320be9f308f86b251d5df9efe9b3-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",New York Giants vs. Dallas Cowboys
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/d653320be9f308f86b251d5df9efe9b3-thumbnail.jpg" group-title="PPVLand - NFL Action",New York Giants vs. Dallas Cowboys
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/dallascowboys/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/02227b149844d1a2b7c36fa8e1ac3d88-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Philadelphia Eagles vs. Kansas City Chiefs
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/02227b149844d1a2b7c36fa8e1ac3d88-thumbnail.jpg" group-title="PPVLand - NFL Action",Philadelphia Eagles vs. Kansas City Chiefs
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/kansascitychiefs/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/dc6a69c4ef4ae34f2529f1c2826c45ed-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Seattle Seahawks vs. Pittsburgh Steelers
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/dc6a69c4ef4ae34f2529f1c2826c45ed-thumbnail.jpg" group-title="PPVLand - NFL Action",Seattle Seahawks vs. Pittsburgh Steelers
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/pittsburghsteelers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/f8b2dd164f22f32b03397082b6920b9e-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Tampa Bay Buccaneers vs. Houston Texans
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/f8b2dd164f22f32b03397082b6920b9e-thumbnail.jpg" group-title="PPVLand - NFL Action",Tampa Bay Buccaneers vs. Houston Texans
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/houstontexans/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/49b69d94ca5f810b3c9173018fa1deb9-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Washington Commanders vs. Green Bay Packers
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/49b69d94ca5f810b3c9173018fa1deb9-thumbnail.jpg" group-title="PPVLand - NFL Action",Washington Commanders vs. Green Bay Packers
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
@@ -8981,17 +8981,17 @@ https://gg.poocloud.in/greenbaypackers/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wrestling/index.m3u8
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="PPVLand - Wrestling Events",TNA: Impact
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wrestling/index.m3u8
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="PPVLand - Wrestling Events",WWE: Friday Night Smackdown
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wrestling/index.m3u8
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 
 #EXTGRP:RokuTV
 #EXTINF:-1  tvg-name="ABC7 Sarasota" tvg-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/50b18dea9c5c51568c1343fcd3d88ec9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746557592232_WWSB_EPG_Hud_LogoWWSB_HUD_logo_260x147_Centered.png" tvg-chno="4162" group-title="RokuTV",ABC7 Sarasota
