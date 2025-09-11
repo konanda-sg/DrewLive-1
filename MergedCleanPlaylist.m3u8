@@ -2667,7 +2667,7 @@ http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Net
 #EXTGRP:DrewLive Fan Made TV
 #EXTINF:-1  tvg-name="Cannabis Grow" tvg-id="24.7.Dummy.us" tvg-logo="https://grow.dwot.io/logo" group-title="DrewLive Fan Made TV" radio="false",Cannabis Grow
 https://grow.dwot.io/hls/1/stream.m3u8?cachebust=7ad5acb5
-#EXTINF:-1  tvg-name="Classic Cube" tvg-id="24.7.Dummy.us" tvg-logo="https://www.models-resource.com/resources/big_icons/5/4695.png?updated=1404601540" group-title="DrewLive Fan Made TV" radio="false",Classic Cube
+#EXTINF:-1  tvg-name="Classic Cube" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Gamecube.png" group-title="DrewLive Fan Made TV" radio="false",Classic Cube
 https://s3.us-east-005.backblazeb2.com/tvcube/hls/0/stream.m3u8?cachebust=61e8d8
 #EXTINF:-1  tvg-name="Drew Live" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Trunks.png" group-title="DrewLive Fan Made TV" radio="false",Drew Live
 http://drewlive24.duckdns.org:8080/hls/stream.m3u8
