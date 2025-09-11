@@ -2923,13 +2923,13 @@ https://swimrewind.com/hls/0/stream.m3u8?cachebust=215d168f
 https://mthrbord.tv/hls/0/stream.m3u8
 #EXTINF:-1  tvg-name="TheUpperLeft" tvg-id="24.7.Dummy.us" tvg-logo="https://theupperleft.thesprawl.online/logo" group-title="DrewLive Fan Made TV" radio="false",TheUpperLeft
 https://theupperleft.thesprawl.online/hls/0/stream.m3u8?cachebust=2f690bd7
-#EXTINF:-1  tvg-name="Toonami Aftermath East" tvg-id="toonami" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20east.jpg" group-title="DrewLive Fan Made TV" radio="false",Toonami Aftermath East
+#EXTINF:-1  tvg-name="Toonami Aftermath East" tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20east.jpg" group-title="DrewLive Fan Made TV" radio="false",Toonami Aftermath East
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1  tvg-name="Toonami Aftermath Movies" tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20movies.jpg" group-title="DrewLive Fan Made TV" radio="false",Toonami Aftermath Movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1  tvg-name="Toonami Aftermath Radio" tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20radio.jpg" group-title="DrewLive Fan Made TV" radio="false",Toonami Aftermath Radio
 http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
-#EXTINF:-1  tvg-name="Toonami Aftermath West" tvg-id="toonamiwest" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20west.jpg" group-title="DrewLive Fan Made TV" radio="false",Toonami Aftermath West
+#EXTINF:-1  tvg-name="Toonami Aftermath West" tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20west.jpg" group-title="DrewLive Fan Made TV" radio="false",Toonami Aftermath West
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 
 #EXTGRP:DrewLive Music Video Channels
@@ -5249,7 +5249,7 @@ https://fl3.moveonjoy.com/CRAVE_4/index.m3u8
 http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 #EXTINF:-1  tvg-name="Curiosity Stream" tvg-id="Curiosity.Channel(Stream).us" tvg-logo="https://i.imgur.com/vRO4e5W.png" group-title="MoveOnJoy" radio="false",Curiosity Stream
 *
-#EXTINF:-1  tvg-name="CW" tvg-id="CW.(WKCF).Orlando,.FL.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="MoveOnJoy" radio="false",CW
+#EXTINF:-1  tvg-name="CW (WKCF)" tvg-id="CW.(WKCF).Orlando,.FL.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="MoveOnJoy" radio="false",CW (WKCF)
 https://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8
 #EXTINF:-1  tvg-name="Destination America" tvg-id="Destination.America.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" group-title="MoveOnJoy" radio="false",Destination America
 http://fl3.moveonjoy.com/Destination_America/index.m3u8
@@ -5411,7 +5411,7 @@ http://fl5.moveonjoy.com/NBA_9/index.m3u8
 https://fl3.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1  tvg-name="NBC" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="MoveOnJoy" radio="false",NBC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1  tvg-name="NBC" tvg-id="NBC.(WVGN).Charlotte.Amalie,.VI.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" group-title="MoveOnJoy" radio="false",NBC
+#EXTINF:-1  tvg-name="NBC (WVGN)" tvg-id="NBC.(WVGN).Charlotte.Amalie,.VI.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" group-title="MoveOnJoy" radio="false",NBC (WVGN)
 https://fl1.moveonjoy.com/Virgin_Islands_NBC/index.m3u8
 #EXTINF:-1  tvg-name="NBC Golf" tvg-id="Golf.Channel.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",NBC Golf
 http://23.237.104.106:8080/USA_GOLTV/index.m3u8
