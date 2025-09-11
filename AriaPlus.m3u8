@@ -107,6 +107,8 @@ https://a1xs.vip/700006
 https://a1xs.vip/700007
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/vrt-canvas-be.png" group-title="AriaPlus - Canada",VRT Canvas
 http://192.145.57.85:9981/stream/channelid/288829476?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/belsat-pl.png" group-title="AriaPlus - United States",Belsat
+http://78.56.193.170:9981/stream/channelid/358696833?profile=pass
 #EXTINF:-1 tvg-id="Canal.Gov.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/canal-gov-br.png" group-title="AriaPlus - Canada",Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Saude.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/canal-saude-br.png" group-title="AriaPlus - Canada",Canal Saude
@@ -294,7 +296,7 @@ http://181.78.4.250:8098/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="AriaPlus - United States",Nick Jr.
 http://181.78.4.250:8098/play/a08y/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/250px-LRT_Plius_Logo_2022.svg.png" group-title="AriaPlus - United States",LRT Plius
-http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6362/index.m3u8
+http://78.56.193.170:9981/stream/channelid/2006312263?profile=pass
 #EXTINF:-1 tvg-logo="hthttps://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/TV3_Plus_Logo_2021.svg/1200px-TV3_Plus_Logo_2021.svg.png" group-title="AriaPlus - United States",TV3 Plus
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12001/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canal_5_Mexico_logo_2014.svg" group-title="AriaPlus - Canada",Canal 5
