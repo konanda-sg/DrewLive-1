@@ -620,9 +620,9 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40768.ts
 #EXTINF:-1 tvg-id="Boomerang.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/boomerang-ca.png" group-title="AriaPlus - Canada",Boomerang
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112907.ts
 #EXTINF:-1 tvg-id="bravo.canada.ca" tvg-logo="https://media.starlite.best/bravo.canada.ca.png" group-title="AriaPlus - Canada",Bravo
-http://38.143.48.212:9981/stream/channelid/1866338186?profile=pass
-#EXTINF:-1 tvg-id="bravo.canada.ca" tvg-logo="https://media.starlite.best/bravo.canada.ca.png" group-title="AriaPlus - Canada",Bravo
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40642.ts
+#EXTINF:-1 tvg-id="bravo.canada.ca" tvg-logo="https://media.starlite.best/bravo.canada.ca.png" group-title="AriaPlus - Canada",Bravo
+http://38.143.48.212:9981/stream/channelid/1866338186?profile=pass
 #EXTINF:-1 tvg-id="canal.d.ca" tvg-logo="https://media.starlite.best/canal.d.ca.png" group-title="AriaPlus - Canada",Canal D
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40765.ts
 #EXTINF:-1 tvg-id="Cartoon.Network.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png" group-title="AriaPlus - Canada",Cartoon Network
@@ -684,9 +684,9 @@ http://38.143.48.212:9981/stream/channelid/1877863586?profile=pass
 #EXTINF:-1 tvg-id="CTV.Sci-Fi.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-sci-fi-channel-ca.png" group-title="AriaPlus - Canada",CTV Sci Fi
 http://38.143.48.212:9981/stream/channelid/191789153?profile=pass
 #EXTINF:-1 tvg-id="CTV.Speed.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-speed-channel-ca.png" group-title="AriaPlus - Canada",CTV Speed
-https://theariatv.github.io/channeldead.mp4
-#EXTINF:-1 tvg-id="CTV.Speed.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-speed-channel-ca.png" group-title="AriaPlus - Canada",CTV Speed
 http://38.143.48.212:9981/stream/channelid/587702128?profile=pass
+#EXTINF:-1 tvg-id="CTV.Speed.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-speed-channel-ca.png" group-title="AriaPlus - Canada",CTV Speed
+https://theariatv.github.io/channeldead.mp4
 #EXTINF:-1 tvg-id="CTV.(CFTO).Toronto group-title="AriaPlus - Canada",.ON.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png",CTV Toronto (CTFO)
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.cfto.toronto.on.ca.m3u8
 #EXTINF:-1 tvg-id="CTV.Wild.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-wild-channel-ca.png" group-title="AriaPlus - Canada",CTV Wild
@@ -724,9 +724,9 @@ http://user.scalecdn.co:8080/live/26725074/92867131/505940.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="AriaPlus - Canada",FAITH TV
 http://user.scalecdn.co:8080/live/26725074/92867131/93121.ts
 #EXTINF:-1 tvg-id="Family.Channel.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/family-ca.png" group-title="AriaPlus - Canada",Family Channel
-http://96.45.207.18:8881/channel/110dd756/index.m3u8?q=1735600584362
-#EXTINF:-1 tvg-id="Family.Channel.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/family-ca.png" group-title="AriaPlus - Canada",Family Channel
 http://38.143.48.212:9981/stream/channelid/653225259?profile=pass
+#EXTINF:-1 tvg-id="Family.Channel.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/family-ca.png" group-title="AriaPlus - Canada",Family Channel
+http://96.45.207.18:8881/channel/110dd756/index.m3u8?q=1735600584362
 #EXTINF:-1 tvg-id="Family.Channel.Canada.-.West.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/family-ca.png" group-title="AriaPlus - Canada",Family Channel West
 http://user.scalecdn.co:8080/live/26725074/92867131/647744.ts
 #EXTINF:-1 tvg-id="Family.Jr..ca" tvg-logo="https://media.starlite.best/family.jr.ca.png" group-title="AriaPlus - Canada",Family Jr
@@ -734,13 +734,13 @@ http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112766.ts
 #EXTINF:-1 tvg-id="Fight.Network.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="AriaPlus - Canada",Fight Network
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40711.ts
 #EXTINF:-1 tvg-id="Flavour.Network.Canada.ca" tvg-logo="https://i.ibb.co/Fb8t9Gh9/Flavour-Network-logo-svg.png" group-title="AriaPlus - Canada",Flavour Network
-http://38.143.48.212:9981/stream/channelid/1724607227?profile=pass
-#EXTINF:-1 tvg-id="Flavour.Network.Canada.ca" tvg-logo="https://i.ibb.co/Fb8t9Gh9/Flavour-Network-logo-svg.png" group-title="AriaPlus - Canada",Flavour Network
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40743.ts
+#EXTINF:-1 tvg-id="Flavour.Network.Canada.ca" tvg-logo="https://i.ibb.co/Fb8t9Gh9/Flavour-Network-logo-svg.png" group-title="AriaPlus - Canada",Flavour Network
+http://38.143.48.212:9981/stream/channelid/1724607227?profile=pass
+#EXTINF:-1 tvg-id="Food.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/food-network-us.png" group-title="AriaPlus - Canada",Food Network
+http://38.143.48.212:9981/stream/channelid/1724607227?profile=pass
 #EXTINF:-1 tvg-id="Food.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/food-network-us.png" group-title="AriaPlus - Canada",Food Network
 http://zorrohunter.com:80/live/WeaponX/Dawkins22/40710.ts
-#EXTINF:-1 tvg-id="Food.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/food-network-us.png" group-title="AriaPlus - Canada",Food Network
-http://38.143.48.212:9981/stream/channelid/1724607227?profile=pass
 #EXTINF:-1 tvg-id="Fox.Sports.Racing.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/fox-sports-racing-ca.png" group-title="AriaPlus - Canada",Fox Sports Racing
 http://speccy.pw:8080/live/111111/111111/316980.ts
 #EXTINF:-1 tvg-id="Frisson.TV.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Frissons_TV_New.png" group-title="AriaPlus - Canada",Frisson TV
@@ -766,9 +766,9 @@ http://user.scalecdn.co:8080/live/26725074/92867131/88027.ts
 #EXTINF:-1 tvg-id="Global.News.BC1.ca" tvg-logo="https://globalnews.ca/wp-content/uploads/2015/01/BC1-pos-hor.png?w=320" group-title="AriaPlus - Canada",Global News BC1
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112775.ts
 #EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="AriaPlus - Canada",Global Toronto (CIII)
-http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
-#EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="AriaPlus - Canada",Global Toronto (CIII)
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40703.ts
+#EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="AriaPlus - Canada",Global Toronto (CIII)
+http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
 #EXTINF:-1 tvg-id="HBO1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-1-ca.png" group-title="AriaPlus - Canada",HBO
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40697.ts
 #EXTINF:-1 tvg-id="HBO.2.HD.(HBO2).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-2-ca.png" group-title="AriaPlus - Canada",HBO 2
@@ -780,9 +780,9 @@ http://38.143.48.212:9981/stream/channelid/340929362?profile=pass
 #EXTINF:-1 tvg-id="historia.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Historia_2022_logo.webp" group-title="AriaPlus - Canada",Historia
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40694.ts
 #EXTINF:-1 tvg-id="History.Canada.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/history-channel-ca.png" group-title="AriaPlus - Canada",History
-https://tvnow.best/api/stream/burns/burns/livetv.epg/history.canada.east.ca.m3u8
-#EXTINF:-1 tvg-id="History.Canada.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/history-channel-ca.png" group-title="AriaPlus - Canada",History
 http://38.143.48.212:9981/stream/channelid/399303638?profile=pass
+#EXTINF:-1 tvg-id="History.Canada.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/history-channel-ca.png" group-title="AriaPlus - Canada",History
+https://tvnow.best/api/stream/burns/burns/livetv.epg/history.canada.east.ca.m3u8
 #EXTINF:-1 tvg-id="History.2.Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg" group-title="AriaPlus - Canada",History 2
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112783.ts
 #EXTINF:-1 tvg-id="Home.Network.ca" tvg-logo="https://i.ibb.co/fGMcLQTP/Home-Network-logo-svg.png" group-title="AriaPlus - Canada",Home Network
@@ -822,13 +822,13 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40681.ts
 #EXTINF:-1 tvg-id="MovieTime.ca" tvg-logo="https://media.starlite.best/movietime.ca.png" group-title="AriaPlus - Canada",Movie Time
 http://38.143.48.212:9981/stream/channelid/1403847081?profile=pass
 #EXTINF:-1 tvg-id="much.music.ca" tvg-logo="https://media.starlite.best/much.music.ca.png" group-title="AriaPlus - Canada",Much
-http://38.143.48.212:9981/stream/channelid/1454901099?profile=pass
-#EXTINF:-1 tvg-id="much.music.ca" tvg-logo="https://media.starlite.best/much.music.ca.png" group-title="AriaPlus - Canada",Much
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112805.ts
-#EXTINF:-1 tvg-id="National.Geographic.Canada.ca" tvg-logo="https://media.starlite.best/national.geographic.canada.ca.png" group-title="AriaPlus - Canada",National Geographic
-http://38.143.48.212:9981/stream/channelid/1422297878?profile=pass
+#EXTINF:-1 tvg-id="much.music.ca" tvg-logo="https://media.starlite.best/much.music.ca.png" group-title="AriaPlus - Canada",Much
+http://38.143.48.212:9981/stream/channelid/1454901099?profile=pass
 #EXTINF:-1 tvg-id="National.Geographic.Canada.ca" tvg-logo="https://media.starlite.best/national.geographic.canada.ca.png" group-title="AriaPlus - Canada",National Geographic
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40674.ts
+#EXTINF:-1 tvg-id="National.Geographic.Canada.ca" tvg-logo="https://media.starlite.best/national.geographic.canada.ca.png" group-title="AriaPlus - Canada",National Geographic
+http://38.143.48.212:9981/stream/channelid/1422297878?profile=pass
 #EXTINF:-1 tvg-id="National.Geographic.Wild.Canada.ca" tvg-logo="https://i.ibb.co/N28fsF0z/National-Geographic-Wild-logo-svg.png" group-title="AriaPlus - Canada",National Geographic Wild
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48380.ts
 #EXTINF:-1 tvg-id="NBA.TV.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/nba-tv-ca.png" group-title="AriaPlus - Canada",NBA TV Canada
@@ -868,23 +868,23 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40624.ts
 #EXTINF:-1 tvg-id="Silver.Screen.Classics.ca" tvg-logo="https://media.starlite.best/silver.screen.classics.ca.png" group-title="AriaPlus - Canada",Silver Screen Classic
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40623.ts
 #EXTINF:-1 tvg-id="slice.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/slice-ca.png" group-title="AriaPlus - Canada",Slice
-http://38.143.48.212:9981/stream/channelid/1542245415?profile=pass
-#EXTINF:-1 tvg-id="slice.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/slice-ca.png" group-title="AriaPlus - Canada",Slice
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40622.ts
+#EXTINF:-1 tvg-id="slice.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/slice-ca.png" group-title="AriaPlus - Canada",Slice
+http://38.143.48.212:9981/stream/channelid/1542245415?profile=pass
 #EXTINF:-1 tvg-id="Smithsonian.Channel.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/smithsonian-channel-ca.png" group-title="AriaPlus - Canada",Smithsonian Channel
 http://38.143.48.212:9981/stream/channelid/254901251?profile=pass
 #EXTINF:-1 tvg-id="sportsman.channel.ca" tvg-logo="https://www.sportsmancanada.ca/wp-content/uploads/2019/01/sportsman-canada-logo-01.png" group-title="AriaPlus - Canada",Sportsman Channel
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112866.ts
 #EXTINF:-1 tvg-id="sportsnet.360.ca" tvg-logo="https://media.starlite.best/sportsnet.360.ca.png" group-title="AriaPlus - Canada",Sportsnet 360
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228742.ts
-#EXTINF:-1 tvg-id="sportsnet.360.ca" tvg-logo="https://media.starlite.best/sportsnet.360.ca.png" group-title="AriaPlus - Canada",Sportsnet 360
 http://38.143.48.212:9981/stream/channelid/1618628267?profile=pass
+#EXTINF:-1 tvg-id="sportsnet.360.ca" tvg-logo="https://media.starlite.best/sportsnet.360.ca.png" group-title="AriaPlus - Canada",Sportsnet 360
+http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228742.ts
 #EXTINF:-1 tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.east.ca.png" group-title="AriaPlus - Canada",Sportsnet East
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2045.ts
 #EXTINF:-1 tvg-id="sportsnet.one.ca" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" group-title="AriaPlus - Canada",Sportsnet One
-http://38.143.48.212:9981/stream/channelid/390027408?profile=pass
-#EXTINF:-1 tvg-id="sportsnet.one.ca" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" group-title="AriaPlus - Canada",Sportsnet One
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2046.ts
+#EXTINF:-1 tvg-id="sportsnet.one.ca" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" group-title="AriaPlus - Canada",Sportsnet One
+http://38.143.48.212:9981/stream/channelid/390027408?profile=pass
 #EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://media.starlite.best/sportsnet.ontario.ca.png" group-title="AriaPlus - Canada",Sportsnet Ontario
 http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228746.ts
 #EXTINF:-1 tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png" group-title="AriaPlus - Canada",Sportsnet Pacific
@@ -926,9 +926,9 @@ http://38.143.48.212:9981/stream/channelid/2028752686?profile=pass
 #EXTINF:-1 tvg-id="TLN.ca" tvg-logo="https://i.ibb.co/cKnhRZX6/TLN-2015.png" group-title="AriaPlus - Canada",TLN
 https://tvnow.best/api/stream/burns/burns/livetv.epg/tln.west.ca.m3u8
 #EXTINF:-1 tvg-id="treehouse.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/treehouse-ca.png" group-title="AriaPlus - Canada",Treehouse
-http://38.143.48.212:9981/stream/channelid/704089388?profile=pass
-#EXTINF:-1 tvg-id="treehouse.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/treehouse-ca.png" group-title="AriaPlus - Canada",Treehouse
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/107536.ts
+#EXTINF:-1 tvg-id="treehouse.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/treehouse-ca.png" group-title="AriaPlus - Canada",Treehouse
+http://38.143.48.212:9981/stream/channelid/704089388?profile=pass
 #EXTINF:-1 tvg-id="TSC.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsc-ca.png" group-title="AriaPlus - Canada",TSC
 http://speccy.pw:8080/live/111111/111111/317088.ts
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png" group-title="AriaPlus - Canada",TSN 1
@@ -1382,9 +1382,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png" group-title="AriaPlus - United States",TBS West
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png" group-title="AriaPlus - United States",TCM
-https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png" group-title="AriaPlus - United States",TCM
 https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png" group-title="AriaPlus - United States",TCM
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/teen-nick-us.png" group-title="AriaPlus - United States",TeenNick
 https://tvpass.org/live/TeenNickEast/hd
 #EXTINF:-1 tvg-logo="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-HD.png" group-title="AriaPlus - United States",Telemundo
@@ -1422,67 +1422,67 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fkxe5rr8jq1.amazonaws.com%2F
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Baltimore Orioles vs Pittsburgh Pirates (Sep 11-2025 5:05 PM UK / Sep 11-2025 10:05 AM MT / Sep 11-2025 12:05 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium829%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Baltimore Orioles vs Pittsburgh Pirates (Sep 11-2025 5:05 PM UK / Sep 11-2025 10:05 AM MT / Sep 11-2025 12:05 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fuo3el0dec6.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3Dk3fmmujkgw%26v%3D1757602825990&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Baltimore Orioles vs Pittsburgh Pirates (Sep 11-2025 5:05 PM UK / Sep 11-2025 10:05 AM MT / Sep 11-2025 12:05 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fgzjhfysp0u.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3Db6kv7ccemit%26v%3D1757602839823&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Chicago White Sox vs Tampa Bay Rays (Sep 11-2025 6:10 PM UK / Sep 11-2025 11:10 AM MT / Sep 11-2025 1:10 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium776%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Baltimore Orioles vs Pittsburgh Pirates (Sep 11-2025 5:05 PM UK / Sep 11-2025 10:05 AM MT / Sep 11-2025 12:05 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fuo3el0dec6.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3Dk3fmmujkgw%26v%3D1757602825990&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Chicago White Sox vs Tampa Bay Rays (Sep 11-2025 6:10 PM UK / Sep 11-2025 11:10 AM MT / Sep 11-2025 1:10 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium905%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Chicago White Sox vs Tampa Bay Rays (Sep 11-2025 6:10 PM UK / Sep 11-2025 11:10 AM MT / Sep 11-2025 1:10 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium776%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Chicago White Sox vs Tampa Bay Rays (Sep 11-2025 6:10 PM UK / Sep 11-2025 11:10 AM MT / Sep 11-2025 1:10 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F2go1q9w9xo.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3D08nve8bkoib%26v%3D1757602852003&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Cleveland Guardians vs Kansas City Royals (Sep 11-2025 11:15 PM UK / Sep 11-2025 4:15 PM MT / Sep 11-2025 6:15 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F2go1q9w9xo.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3D08nve8bkoib%26v%3D1757602852003&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Miami Marlins vs Washington Nationals (Sep 11-2025 10:40 PM UK / Sep 11-2025 3:40 PM MT / Sep 11-2025 5:40 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F336bfy350n.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3Dibzdcxuv8yh%26v%3D1757602925315&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Miami Marlins vs Washington Nationals (Sep 11-2025 10:40 PM UK / Sep 11-2025 3:40 PM MT / Sep 11-2025 5:40 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium829%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Miami Marlins vs Washington Nationals (Sep 11-2025 10:40 PM UK / Sep 11-2025 3:40 PM MT / Sep 11-2025 5:40 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium892%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Miami Marlins vs Washington Nationals (Sep 11-2025 10:40 PM UK / Sep 11-2025 3:40 PM MT / Sep 11-2025 5:40 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F336bfy350n.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3Dibzdcxuv8yh%26v%3D1757602925315&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : New York Yankees vs Detroit Tigers (Sep 11-2025 11:05 PM UK / Sep 11-2025 4:05 PM MT / Sep 11-2025 6:05 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fjc6gkmj1fg.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3Dnep7ud8q7f%26v%3D1757602936770&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : New York Yankees vs Detroit Tigers (Sep 11-2025 11:05 PM UK / Sep 11-2025 4:05 PM MT / Sep 11-2025 6:05 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium406%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium833%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : New York Yankees vs Detroit Tigers (Sep 11-2025 11:05 PM UK / Sep 11-2025 4:05 PM MT / Sep 11-2025 6:05 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium407%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : New York Yankees vs Detroit Tigers (Sep 11-2025 11:05 PM UK / Sep 11-2025 4:05 PM MT / Sep 11-2025 6:05 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F11npyz7vo2.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3D7tbm40p9pe9%26v%3D1757602894960&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : New York Yankees vs Detroit Tigers (Sep 11-2025 11:05 PM UK / Sep 11-2025 4:05 PM MT / Sep 11-2025 6:05 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fgzjhfysp0u.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3Db6kv7ccemit%26v%3D1757602839823&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : New York Yankees vs Detroit Tigers (Sep 11-2025 11:05 PM UK / Sep 11-2025 4:05 PM MT / Sep 11-2025 6:05 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F11npyz7vo2.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3D7tbm40p9pe9%26v%3D1757602894960&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : New York Yankees vs Detroit Tigers (Sep 11-2025 11:05 PM UK / Sep 11-2025 4:05 PM MT / Sep 11-2025 6:05 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fjq3lqfnf21.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Dhfbzqvoput%26v%3D1757602949445&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : New York Yankees vs Detroit Tigers (Sep 11-2025 11:05 PM UK / Sep 11-2025 4:05 PM MT / Sep 11-2025 6:05 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium407%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium406%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : New York Yankees vs Detroit Tigers (Sep 11-2025 11:05 PM UK / Sep 11-2025 4:05 PM MT / Sep 11-2025 6:05 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fl03kdz7l8e.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3Dkf2q7jy7vt%26v%3D1757602501019&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : New York Yankees vs Detroit Tigers (Sep 11-2025 11:05 PM UK / Sep 11-2025 4:05 PM MT / Sep 11-2025 6:05 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium833%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Philadelphia Phillies vs New York Mets (Sep 11-2025 11:15 PM UK / Sep 11-2025 4:15 PM MT / Sep 11-2025 6:15 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fn9l1qqlld1.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3Duzh1rh5mpn%26v%3D1757602957855&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fjq3lqfnf21.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Dhfbzqvoput%26v%3D1757602949445&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Philadelphia Phillies vs New York Mets (Sep 11-2025 11:15 PM UK / Sep 11-2025 4:15 PM MT / Sep 11-2025 6:15 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Foc3eoqudnp.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3Dqwn6bde87qe%26v%3D1757602874612&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Philadelphia Phillies vs New York Mets (Sep 11-2025 11:15 PM UK / Sep 11-2025 4:15 PM MT / Sep 11-2025 6:15 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fn9l1qqlld1.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3Duzh1rh5mpn%26v%3D1757602957855&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : San Diego Padres vs Colorado Rockies (Sep 11-2025 1:40 AM UK / Sep 10-2025 6:40 PM MT / Sep 10-2025 8:40 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium8%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Seattle Mariners vs Los Angeles Angels (Sep 11-2025 1:40 AM UK / Sep 10-2025 6:40 PM MT / Sep 10-2025 8:40 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium399%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Friw86ix6ik.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Dp84tf683vrk%26v%3D1757602969932&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMA%3D%3D
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Seattle Mariners vs Los Angeles Angels (Sep 11-2025 1:40 AM UK / Sep 10-2025 6:40 PM MT / Sep 10-2025 8:40 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium7%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMHxPcmlnaW49aHR0cHM6Ly9mbmpwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm5qcGxheS54eXovfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQxLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQxLjA%3D
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Seattle Mariners vs Los Angeles Angels (Sep 11-2025 1:40 AM UK / Sep 10-2025 6:40 PM MT / Sep 10-2025 8:40 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Friw86ix6ik.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Dp84tf683vrk%26v%3D1757602969932&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMA%3D%3D
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium399%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Toronto Blue Jays vs Houston Astros (Sep 11-2025 7:07 PM UK / Sep 11-2025 12:07 PM MT / Sep 11-2025 2:07 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium116%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Toronto Blue Jays vs Houston Astros (Sep 11-2025 7:07 PM UK / Sep 11-2025 12:07 PM MT / Sep 11-2025 2:07 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Foc3eoqudnp.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3Dqwn6bde87qe%26v%3D1757602874612&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Toronto Blue Jays vs Houston Astros (Sep 11-2025 7:07 PM UK / Sep 11-2025 12:07 PM MT / Sep 11-2025 2:07 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium921%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Toronto Blue Jays vs Houston Astros (Sep 11-2025 7:07 PM UK / Sep 11-2025 12:07 PM MT / Sep 11-2025 2:07 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium399%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Toronto Blue Jays vs Houston Astros (Sep 11-2025 7:07 PM UK / Sep 11-2025 12:07 PM MT / Sep 11-2025 2:07 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium406%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Foc3eoqudnp.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3Dqwn6bde87qe%26v%3D1757602874612&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Toronto Blue Jays vs Houston Astros (Sep 11-2025 7:07 PM UK / Sep 11-2025 12:07 PM MT / Sep 11-2025 2:07 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fpamakqkso3.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3Dj82xze0af8%26v%3D1757602887919&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Toronto Blue Jays vs Houston Astros (Sep 11-2025 7:07 PM UK / Sep 11-2025 12:07 PM MT / Sep 11-2025 2:07 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium407%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Toronto Blue Jays vs Houston Astros (Sep 11-2025 7:07 PM UK / Sep 11-2025 12:07 PM MT / Sep 11-2025 2:07 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F11npyz7vo2.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3D7tbm40p9pe9%26v%3D1757602894960&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Toronto Blue Jays vs Houston Astros (Sep 11-2025 7:07 PM UK / Sep 11-2025 12:07 PM MT / Sep 11-2025 2:07 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium407%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium406%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Toronto Blue Jays vs Houston Astros (Sep 11-2025 7:07 PM UK / Sep 11-2025 12:07 PM MT / Sep 11-2025 2:07 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium399%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 
 #EXTGRP:DaddyLive - Fight Night
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Boxing-2.png" group-title="DaddyLive - Fight Night",Boxing : Anthony Olascuaga vs Juan Carlos Camacho (Sep 11-2025 3:00 AM UK / Sep 10-2025 8:00 PM MT / Sep 10-2025 10:00 PM EST)
@@ -1490,17 +1490,17 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F9cae4r15ol.amazonaws.com%2F
 
 #EXTGRP:DaddyLive - Golf Tee-Off
 #EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",DP World Tour BMW PGA Championship (Sep 11-2025 7:30 AM UK / Sep 11-2025 12:30 AM MT / Sep 11-2025 2:30 AM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium901%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMA%3D%3D
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",DP World Tour BMW PGA Championship (Sep 11-2025 7:30 AM UK / Sep 11-2025 12:30 AM MT / Sep 11-2025 2:30 AM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhmu92p3p4f.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Dkjjlpr1pte%26v%3D1757602575093&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",DP World Tour BMW PGA Championship (Sep 11-2025 7:30 AM UK / Sep 11-2025 12:30 AM MT / Sep 11-2025 2:30 AM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium318%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",DP World Tour BMW PGA Championship (Sep 11-2025 7:30 AM UK / Sep 11-2025 12:30 AM MT / Sep 11-2025 2:30 AM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F6wpzpw8z4m.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3Dk32ssg48fwh%26v%3D1757602626802&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMHxPcmlnaW49aHR0cHM6Ly9mbmpwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm5qcGxheS54eXovfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQxLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQxLjA%3D
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhmu92p3p4f.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Dkjjlpr1pte%26v%3D1757602575093&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",DP World Tour BMW PGA Championship (Sep 11-2025 7:30 AM UK / Sep 11-2025 12:30 AM MT / Sep 11-2025 2:30 AM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fit0489o1ts.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3Drl5s27hztci%26v%3D1757602630567&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",DP World Tour BMW PGA Championship (Sep 11-2025 7:30 AM UK / Sep 11-2025 12:30 AM MT / Sep 11-2025 2:30 AM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fiz3ui0fius.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3Dljj7o62z1i%26v%3D1757602591247&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",DP World Tour BMW PGA Championship (Sep 11-2025 7:30 AM UK / Sep 11-2025 12:30 AM MT / Sep 11-2025 2:30 AM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium901%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMA%3D%3D
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",DP World Tour BMW PGA Championship (Sep 11-2025 7:30 AM UK / Sep 11-2025 12:30 AM MT / Sep 11-2025 2:30 AM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F6wpzpw8z4m.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3Dk32ssg48fwh%26v%3D1757602626802&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMHxPcmlnaW49aHR0cHM6Ly9mbmpwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm5qcGxheS54eXovfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQxLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQxLjA%3D
 #EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",DP World Tour BMW PGA Championship (Sep 11-2025 7:30 AM UK / Sep 11-2025 12:30 AM MT / Sep 11-2025 2:30 AM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fijvxayonkk.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Dp39es99vyv8%26v%3D1757602627807&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",Korn Ferry Tour Simmons Bank Open | Day 1 (Sep 11-2025 8:00 PM UK / Sep 11-2025 1:00 PM MT / Sep 11-2025 3:00 PM EST)
@@ -1512,29 +1512,29 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fo117m3dsrr.amazonaws.com%2F
 #EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",Ladies European Tour VP Bank Swiss Ladies Open Switzerland (Sep 11-2025 1:00 PM UK / Sep 11-2025 6:00 AM MT / Sep 11-2025 8:00 AM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fz6r6kxupry.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3Dzijxo4zalka%26v%3D1757602659392&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",LPGA Tour Golf Kroger Queen City Championship-First Round (Sep 11-2025 5:00 PM UK / Sep 11-2025 10:00 AM MT / Sep 11-2025 12:00 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhmu92p3p4f.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Dkjjlpr1pte%26v%3D1757602575093&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",LPGA Tour Golf Kroger Queen City Championship-First Round (Sep 11-2025 5:00 PM UK / Sep 11-2025 10:00 AM MT / Sep 11-2025 12:00 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium318%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",LPGA Tour Golf Kroger Queen City Championship-First Round (Sep 11-2025 5:00 PM UK / Sep 11-2025 10:00 AM MT / Sep 11-2025 12:00 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium901%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMA%3D%3D
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F6wpzpw8z4m.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3Dk32ssg48fwh%26v%3D1757602626802&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",LPGA Tour Golf Kroger Queen City Championship-First Round (Sep 11-2025 5:00 PM UK / Sep 11-2025 10:00 AM MT / Sep 11-2025 12:00 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium588%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMA%3D%3D
 #EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",LPGA Tour Golf Kroger Queen City Championship-First Round (Sep 11-2025 5:00 PM UK / Sep 11-2025 10:00 AM MT / Sep 11-2025 12:00 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F6wpzpw8z4m.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3Dk32ssg48fwh%26v%3D1757602626802&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium318%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",LPGA Tour Golf Kroger Queen City Championship-First Round (Sep 11-2025 5:00 PM UK / Sep 11-2025 10:00 AM MT / Sep 11-2025 12:00 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fiz3ui0fius.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3Dljj7o62z1i%26v%3D1757602591247&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",LPGA Tour Golf Kroger Queen City Championship-First Round (Sep 11-2025 5:00 PM UK / Sep 11-2025 10:00 AM MT / Sep 11-2025 12:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium901%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMA%3D%3D
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",LPGA Tour Golf Kroger Queen City Championship-First Round (Sep 11-2025 5:00 PM UK / Sep 11-2025 10:00 AM MT / Sep 11-2025 12:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhmu92p3p4f.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Dkjjlpr1pte%26v%3D1757602575093&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",PGA Tour Procore Championship (Sep 11-2025 8:00 PM UK / Sep 11-2025 1:00 PM MT / Sep 11-2025 3:00 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium318%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fiz3ui0fius.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3Dljj7o62z1i%26v%3D1757602591247&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",PGA Tour Procore Championship (Sep 11-2025 8:00 PM UK / Sep 11-2025 1:00 PM MT / Sep 11-2025 3:00 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium901%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMA%3D%3D
 #EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",PGA Tour Procore Championship (Sep 11-2025 8:00 PM UK / Sep 11-2025 1:00 PM MT / Sep 11-2025 3:00 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fv4ouafcfk4.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3D712gpsgiozp%26v%3D1757602673696&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMA%3D%3D
 #EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",PGA Tour Procore Championship (Sep 11-2025 8:00 PM UK / Sep 11-2025 1:00 PM MT / Sep 11-2025 3:00 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F6wpzpw8z4m.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3Dk32ssg48fwh%26v%3D1757602626802&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",PGA Tour Procore Championship (Sep 11-2025 8:00 PM UK / Sep 11-2025 1:00 PM MT / Sep 11-2025 3:00 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fiz3ui0fius.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3Dljj7o62z1i%26v%3D1757602591247&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium318%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",PGA Tour Procore Championship (Sep 11-2025 8:00 PM UK / Sep 11-2025 1:00 PM MT / Sep 11-2025 3:00 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fhmu92p3p4f.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Dkjjlpr1pte%26v%3D1757602575093&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",PGA Tour Procore Championship (Sep 11-2025 8:00 PM UK / Sep 11-2025 1:00 PM MT / Sep 11-2025 3:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F6wpzpw8z4m.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3Dk32ssg48fwh%26v%3D1757602626802&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 
 #EXTGRP:DaddyLive - Gridiron Football
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",College Football : Fort Valley State vs Clark Atlanta (Sep 11-2025 11:00 PM UK / Sep 11-2025 4:00 PM MT / Sep 11-2025 6:00 PM EST)
@@ -1542,45 +1542,45 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fufpzlu0ekx.amazonaws.com%2F
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",High School Football : Bridgeland vs. Ridge Point (Sep 11-2025 12:00 AM UK / Sep 10-2025 5:00 PM MT / Sep 10-2025 7:00 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium921%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NCAA FBS : North Carolina State vs Wake Forest (Sep 11-2025 11:30 PM UK / Sep 11-2025 4:30 PM MT / Sep 11-2025 6:30 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F82vqpxkhsl.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3D0t3sazfrsnl%26v%3D1757602712332&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NCAA FBS : North Carolina State vs Wake Forest (Sep 11-2025 11:30 PM UK / Sep 11-2025 4:30 PM MT / Sep 11-2025 6:30 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fr2lq98evl4.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3Dh7dq4zjzfss%26v%3D1757602718574&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NCAA FBS : North Carolina State vs Wake Forest (Sep 11-2025 11:30 PM UK / Sep 11-2025 4:30 PM MT / Sep 11-2025 6:30 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium101%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NCAA FBS : North Carolina State vs Wake Forest (Sep 11-2025 11:30 PM UK / Sep 11-2025 4:30 PM MT / Sep 11-2025 6:30 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzinofw2ouj.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3D72sv19omnsa%26v%3D1757602706210&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NCAA FBS : North Carolina State vs Wake Forest (Sep 11-2025 11:30 PM UK / Sep 11-2025 4:30 PM MT / Sep 11-2025 6:30 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Flj3r1t69fm.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Dlb3tzmtfq0o%26v%3D1757602694532&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NCAA FBS : North Carolina State vs Wake Forest (Sep 11-2025 11:30 PM UK / Sep 11-2025 4:30 PM MT / Sep 11-2025 6:30 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F82vqpxkhsl.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3D0t3sazfrsnl%26v%3D1757602712332&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NCAA FBS : North Carolina State vs Wake Forest (Sep 11-2025 11:30 PM UK / Sep 11-2025 4:30 PM MT / Sep 11-2025 6:30 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium101%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NCAA FBS : North Carolina State vs Wake Forest (Sep 11-2025 11:30 PM UK / Sep 11-2025 4:30 PM MT / Sep 11-2025 6:30 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fr2lq98evl4.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3Dh7dq4zjzfss%26v%3D1757602718574&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F91pkdx42jc.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3Dqjlq0mhg8s%26v%3D1757602331831&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium455%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium134%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium144%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fppu8teywtv.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3D5fgvjkj3xg4%26v%3D1757602783636&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fp19m6gyjkj.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3D3ig7ri0box8%26v%3D1757602775275&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fat0r7i4tde.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3D71hptf98eal%26v%3D1757602742560&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium114%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium116%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fjxcbo0xh4w.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3Dwmnx3dqt6id%26v%3D1757602764644&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMA%3D%3D
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Faqv74v0amd.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3Djzszyyhkyza%26v%3D1757602808288&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fmdc7co6n6k.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3D7fhwwx9nd7x%26v%3D1757602805599&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium37%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fp19m6gyjkj.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3D3ig7ri0box8%26v%3D1757602775275&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Faqv74v0amd.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3Djzszyyhkyza%26v%3D1757602808288&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fha6t9x1cld.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3Dmqqx5kfib28%26v%3D1757602363425&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium134%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F91pkdx42jc.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3Dqjlq0mhg8s%26v%3D1757602331831&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fat0r7i4tde.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3D71hptf98eal%26v%3D1757602742560&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium144%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fvnksk711g7.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3Dw9zotjrnwr%26v%3D1757602818993&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fmdc7co6n6k.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3D7fhwwx9nd7x%26v%3D1757602805599&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium37%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium114%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium455%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fppu8teywtv.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3D5fgvjkj3xg4%26v%3D1757602783636&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 
 #EXTGRP:DaddyLive - Hoops Central
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="DaddyLive - Hoops Central",League Cup : Maccabi Raanana vs Bnei Herzliya (Sep 11-2025 5:00 PM UK / Sep 11-2025 10:00 AM MT / Sep 11-2025 12:00 PM EST)
@@ -1588,23 +1588,23 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnpays6ex4y.amazonaws.com%2F
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="DaddyLive - Hoops Central",WNBA : Chicago Sky W vs New York Liberty W (Sep 11-2025 12:00 AM UK / Sep 10-2025 5:00 PM MT / Sep 10-2025 7:00 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnpays6ex4y.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Dfp1zvyjtgx8%26v%3D1757602971953&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="DaddyLive - Hoops Central",WNBA : Chicago Sky W vs New York Liberty W (Sep 11-2025 12:00 AM UK / Sep 10-2025 5:00 PM MT / Sep 10-2025 7:00 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzikeunhcbg.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Dfe6jaaokzlr%26v%3D1757602979495&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="DaddyLive - Hoops Central",WNBA : Chicago Sky W vs New York Liberty W (Sep 11-2025 12:00 AM UK / Sep 10-2025 5:00 PM MT / Sep 10-2025 7:00 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fvke20y8zbp.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3Dc22pvw7oyhm%26v%3D1757602976996&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="DaddyLive - Hoops Central",WNBA : Chicago Sky W vs New York Liberty W (Sep 11-2025 12:00 AM UK / Sep 10-2025 5:00 PM MT / Sep 10-2025 7:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzikeunhcbg.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Dfe6jaaokzlr%26v%3D1757602979495&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="DaddyLive - Hoops Central",WNBA : Golden State Valkyries vs Minnesota Lynx W (Sep 11-2025 12:00 AM UK / Sep 10-2025 5:00 PM MT / Sep 10-2025 7:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium898%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="DaddyLive - Hoops Central",WNBA : Golden State Valkyries vs Minnesota Lynx W (Sep 11-2025 12:00 AM UK / Sep 10-2025 5:00 PM MT / Sep 10-2025 7:00 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwydgtf00o6.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3Doi0824vm70r%26v%3D1757602987164&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMA%3D%3D
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="DaddyLive - Hoops Central",WNBA : Golden State Valkyries vs Minnesota Lynx W (Sep 11-2025 12:00 AM UK / Sep 10-2025 5:00 PM MT / Sep 10-2025 7:00 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium895%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="DaddyLive - Hoops Central",WNBA : Golden State Valkyries vs Minnesota Lynx W (Sep 11-2025 12:00 AM UK / Sep 10-2025 5:00 PM MT / Sep 10-2025 7:00 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium898%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="DaddyLive - Hoops Central",WNBA : Los Angeles Sparks W vs Las Vegas Aces W (Sep 11-2025 2:00 AM UK / Sep 10-2025 7:00 PM MT / Sep 10-2025 9:00 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Feaa9dot19j.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Dwvk0fmy8p1q%26v%3D1757603020873&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="DaddyLive - Hoops Central",WNBA : Los Angeles Sparks W vs Las Vegas Aces W (Sep 11-2025 2:00 AM UK / Sep 10-2025 7:00 PM MT / Sep 10-2025 9:00 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnpays6ex4y.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Dfp1zvyjtgx8%26v%3D1757602971953&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="DaddyLive - Hoops Central",WNBA : Los Angeles Sparks W vs Las Vegas Aces W (Sep 11-2025 2:00 AM UK / Sep 10-2025 7:00 PM MT / Sep 10-2025 9:00 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Foe2n7m7op8.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3Dad3n14e3nys%26v%3D1757602573046&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="DaddyLive - Hoops Central",WNBA : Los Angeles Sparks W vs Las Vegas Aces W (Sep 11-2025 2:00 AM UK / Sep 10-2025 7:00 PM MT / Sep 10-2025 9:00 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwydgtf00o6.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3Doi0824vm70r%26v%3D1757602987164&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="DaddyLive - Hoops Central",WNBA : Los Angeles Sparks W vs Las Vegas Aces W (Sep 11-2025 2:00 AM UK / Sep 10-2025 7:00 PM MT / Sep 10-2025 9:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnpays6ex4y.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Dfp1zvyjtgx8%26v%3D1757602971953&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 
 #EXTGRP:DaddyLive - Mixed Martial Arts
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="DaddyLive - Mixed Martial Arts",Extreme Fighting Championship 127 (EFC 127) : Moyo vs. Djikasa (Sep 11-2025 5:00 PM UK / Sep 11-2025 10:00 AM MT / Sep 11-2025 12:00 PM EST)
@@ -1624,17 +1624,17 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2F
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",British Premiership Play-Off | Semi-Final | Second Leg Ipswich Witches - Belle Vue Aces (Sep 11-2025 6:30 PM UK / Sep 11-2025 11:30 AM MT / Sep 11-2025 1:30 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fl03kdz7l8e.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3Dkf2q7jy7vt%26v%3D1757602501019&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",NASCAR Craftsman Truck Series UNOH 200 (Sep 11-2025 12:00 AM UK / Sep 10-2025 5:00 PM MT / Sep 10-2025 7:00 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium919%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",NASCAR Craftsman Truck Series UNOH 200 (Sep 11-2025 12:00 AM UK / Sep 10-2025 5:00 PM MT / Sep 10-2025 7:00 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium39%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",NASCAR Craftsman Truck Series UNOH 200 (Sep 11-2025 12:00 AM UK / Sep 10-2025 5:00 PM MT / Sep 10-2025 7:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium919%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",NASCAR Craftsman Truck Series UNOH 200 (Sep 11-2025 12:00 AM UK / Sep 10-2025 5:00 PM MT / Sep 10-2025 7:00 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F00yk2iaxkr.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3Dwcj3la5dgo%26v%3D1757602518400&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",NASCAR Craftsman Truck Series UNOH 200-Qualifying (Sep 11-2025 7:00 PM UK / Sep 11-2025 12:00 PM MT / Sep 11-2025 2:00 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzubl32ep9i.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3Dawe5aq7qfn%26v%3D1757602445939&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Rally WRC : Rally Chile Bio Bio: Shakedown (Sep 11-2025 12:00 PM UK / Sep 11-2025 5:00 AM MT / Sep 11-2025 7:00 AM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F6gma98608r.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3Dqcimvq5boqs%26v%3D1757602491103&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMA%3D%3D
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Rally WRC : Rally Chile Bio Bio: Shakedown (Sep 11-2025 12:00 PM UK / Sep 11-2025 5:00 AM MT / Sep 11-2025 7:00 AM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fubj3a9wp7a.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Di13iowx9y98%26v%3D1757602465183&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Rally WRC : Rally Chile Bio Bio: Shakedown (Sep 11-2025 12:00 PM UK / Sep 11-2025 5:00 AM MT / Sep 11-2025 7:00 AM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F6gma98608r.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3Dqcimvq5boqs%26v%3D1757602491103&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMA%3D%3D
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Supercars 500 Practice 1 (Sep 11-2025 12:30 AM UK / Sep 10-2025 5:30 PM MT / Sep 10-2025 7:30 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium588%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Supercars 500 Practice 2 (Sep 11-2025 3:00 AM UK / Sep 10-2025 8:00 PM MT / Sep 10-2025 10:00 PM EST)
@@ -1670,13 +1670,13 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2F
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Primera DivisiÃ³n : Belgrano vs San MartÃ­n San Juan (Sep 11-2025 11:00 PM UK / Sep 11-2025 4:00 PM MT / Sep 11-2025 6:00 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium387%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Russia - Russian Cup : Amkal vs Salyut Belgorod (Sep 11-2025 2:00 PM UK / Sep 11-2025 7:00 AM MT / Sep 11-2025 9:00 AM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fcsw4m98tjk.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3Dq81qbbaqkb%26v%3D1757602285652&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Ft7e4ue9wl3.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3Dmus2ph2pqh%26v%3D1757602292915&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Russia - Russian Cup : Amkal vs Salyut Belgorod (Sep 11-2025 2:00 PM UK / Sep 11-2025 7:00 AM MT / Sep 11-2025 9:00 AM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Ft7e4ue9wl3.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3Dmus2ph2pqh%26v%3D1757602292915&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Russia - Russian Cup : Saturn Ramenskoye vs Broke Boys (Sep 11-2025 4:30 PM UK / Sep 11-2025 9:30 AM MT / Sep 11-2025 11:30 AM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fcsw4m98tjk.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3Dq81qbbaqkb%26v%3D1757602285652&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Russia - Russian Cup : Saturn Ramenskoye vs Broke Boys (Sep 11-2025 4:30 PM UK / Sep 11-2025 9:30 AM MT / Sep 11-2025 11:30 AM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Ft7e4ue9wl3.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3Dmus2ph2pqh%26v%3D1757602292915&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Russia - Russian Cup : Saturn Ramenskoye vs Broke Boys (Sep 11-2025 4:30 PM UK / Sep 11-2025 9:30 AM MT / Sep 11-2025 11:30 AM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fcsw4m98tjk.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3Dq81qbbaqkb%26v%3D1757602285652&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Saudi Arabia - Division 1 : Al Batin vs Al Jabalain (Sep 11-2025 3:40 PM UK / Sep 11-2025 8:40 AM MT / Sep 11-2025 10:40 AM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium8%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Saudi Arabia - Division 1 : Arabi vs Anwar (Sep 11-2025 5:40 PM UK / Sep 11-2025 10:40 AM MT / Sep 11-2025 12:40 PM EST)
@@ -1690,9 +1690,9 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpr
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",UEFA Champions League Women Qualification : GKS Katowice vs. FC Twente Enschede (Sep 11-2025 4:00 PM UK / Sep 11-2025 9:00 AM MT / Sep 11-2025 11:00 AM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F91pkdx42jc.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3Dqjlq0mhg8s%26v%3D1757602331831&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMA%3D%3D
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",United Arab Emirates - UAE Pro League " Al Ittihad Kalba vs Al Wahda (Sep 11-2025 1:40 PM UK / Sep 11-2025 6:40 AM MT / Sep 11-2025 8:40 AM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Frylivt8bce.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Djjnb0jid0w%26v%3D1757602274181&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",United Arab Emirates - UAE Pro League " Al Ittihad Kalba vs Al Wahda (Sep 11-2025 1:40 PM UK / Sep 11-2025 6:40 AM MT / Sep 11-2025 8:40 AM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Flnasotrueh.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3D4x2vkzpqax%26v%3D1757602259347&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",United Arab Emirates - UAE Pro League " Al Ittihad Kalba vs Al Wahda (Sep 11-2025 1:40 PM UK / Sep 11-2025 6:40 AM MT / Sep 11-2025 8:40 AM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Frylivt8bce.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Djjnb0jid0w%26v%3D1757602274181&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",United Arab Emirates - UAE Pro League : Khor Fakkan vs Al Sharjah (Sep 11-2025 4:15 PM UK / Sep 11-2025 9:15 AM MT / Sep 11-2025 11:15 AM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Frmg6ba6ibm.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3Dko8uqk3pbjo%26v%3D1757602341890&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",United States - NCAA Women's Soccer : Alabama vs South Carolina (Sep 11-2025 12:00 AM UK / Sep 10-2025 5:00 PM MT / Sep 10-2025 7:00 PM EST)
@@ -2946,9 +2946,9 @@ https://cdn.baddiehub.com/b.mp4
 #EXTINF:-1  tvg-name="Violet Myers & Mz Jessie" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive NSFW" radio="false",Violet Myers & Mz Jessie
 https://cdn.baddiehub.com/714.mp4
 #EXTINF:-1  tvg-name="Vitoria Beatriz" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive NSFW" radio="false",Vitoria Beatriz
-https://cdn.baddiehub.com/ViOS.mp4
-#EXTINF:-1  tvg-name="Vitoria Beatriz" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive NSFW" radio="false",Vitoria Beatriz
 https://cdn.baddiehub.com/ViBtriz.mp4
+#EXTINF:-1  tvg-name="Vitoria Beatriz" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive NSFW" radio="false",Vitoria Beatriz
+https://cdn.baddiehub.com/ViOS.mp4
 #EXTINF:-1  tvg-name="Wicca Lavey" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive NSFW" radio="false",Wicca Lavey
 https://cdn.baddiehub.com/Wccc.mp4
 #EXTINF:-1  tvg-name="Willow & Emily" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive NSFW" radio="false",Willow & Emily
@@ -6685,10 +6685,10 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ce3fc05906
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f11395586633e88e3a3274.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 #EXTINF:-1  tvg-name="TWDU" tvg-id="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" tvg-logo="https://provider-static.plex.tv/epg/cms/production/17192c32-77cd-4da0-bc8e-e64836d08592/AMCN_TWDU_Plex_logo_dark_v01.png" group-title="PlexTV",The Walking Dead Universe
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-66ad6b4fcb5d3b7fb5011c2f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b9255584-5d8d-4ccf-bd10-e7cf61170bb7/wpt_logo_ATTRIBUTION__1_.png" group-title="PlexTV",The World Poker Tour
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ad6b4fcb5d3b7fb5011c2f.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-656fa24bdbcce28c3a417415" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dec2021c-78a9-47b9-ae15-5e92623ecbde/wpt_logo__1_.png" group-title="PlexTV",The World Poker Tour
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656fa24bdbcce28c3a417415.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-66ad6b4fcb5d3b7fb5011c2f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b9255584-5d8d-4ccf-bd10-e7cf61170bb7/wpt_logo_ATTRIBUTION__1_.png" group-title="PlexTV",The World Poker Tour
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ad6b4fcb5d3b7fb5011c2f.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-62e3232ca105dea9c400e9fe" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d4b6f778-c8f5-47cd-b6a4-266b73842fc8/TOHLogo_1500x1000.png" group-title="PlexTV",This Old House
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62e3232ca105dea9c400e9fe.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-63c1e176f0f132afc3afbab0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0bd0b2e2-032c-4fa2-b161-8996fd3284d7/Tiny_House_Nation_COLOR_Logo_RDX.png" group-title="PlexTV",Tiny House Nation
@@ -7445,20 +7445,20 @@ https://jmp2.uk/plu-5eb1aeb2fd4b8a00076c2047.m3u8
 https://jmp2.uk/plu-5eb1b12146cba40007aa7e5d.m3u8
 #EXTINF:-1  tvg-name="CBS News Detroit" tvg-id="634f2610d5023700078f7dee" tvg-logo="https://images.pluto.tv/channels/634f2610d5023700078f7dee/colorLogoPNG.png" tvg-chno="5140" group-title="PlutoTV - United Kingdom",CBS News Detroit
 https://jmp2.uk/plu-634f2610d5023700078f7dee.m3u8
-#EXTINF:-1  tvg-name="CBS News Los Angeles" tvg-id="5dc9b875e280c80009a8a44a" tvg-logo="https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png" tvg-chno="2560" group-title="PlutoTV - United Kingdom",CBS News Los Angeles
-https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
 #EXTINF:-1  tvg-name="CBS News Los Angeles" tvg-id="5dc481cda1d430000948a1b4" tvg-logo="https://images.pluto.tv/channels/5dc481cda1d430000948a1b4/colorLogoPNG.png" tvg-chno="5150" group-title="PlutoTV - United Kingdom",CBS News Los Angeles
 https://jmp2.uk/plu-5dc481cda1d430000948a1b4.m3u8
-#EXTINF:-1  tvg-name="CBS News Miami" tvg-id="62cdc8fdb05d2b0007ef5035" tvg-logo="https://images.pluto.tv/channels/62cdc8fdb05d2b0007ef5035/colorLogoPNG.png" tvg-chno="2570" group-title="PlutoTV - United Kingdom",CBS News Miami
-https://jmp2.uk/plu-62cdc8fdb05d2b0007ef5035.m3u8
+#EXTINF:-1  tvg-name="CBS News Los Angeles" tvg-id="5dc9b875e280c80009a8a44a" tvg-logo="https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png" tvg-chno="2560" group-title="PlutoTV - United Kingdom",CBS News Los Angeles
+https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
 #EXTINF:-1  tvg-name="CBS News Miami" tvg-id="60fb299b79498900070b29e0" tvg-logo="https://images.pluto.tv/channels/60fb299b79498900070b29e0/colorLogoPNG.png" tvg-chno="2570" group-title="PlutoTV - United Kingdom",CBS News Miami
 https://jmp2.uk/plu-60fb299b79498900070b29e0.m3u8
+#EXTINF:-1  tvg-name="CBS News Miami" tvg-id="62cdc8fdb05d2b0007ef5035" tvg-logo="https://images.pluto.tv/channels/62cdc8fdb05d2b0007ef5035/colorLogoPNG.png" tvg-chno="2570" group-title="PlutoTV - United Kingdom",CBS News Miami
+https://jmp2.uk/plu-62cdc8fdb05d2b0007ef5035.m3u8
 #EXTINF:-1  tvg-name="CBS News Minnesota" tvg-id="5eb1b0bf2240d8000732a09c" tvg-logo="https://images.pluto.tv/channels/5eb1b0bf2240d8000732a09c/colorLogoPNG.png" tvg-chno="5170" group-title="PlutoTV - United Kingdom",CBS News Minnesota
 https://jmp2.uk/plu-5eb1b0bf2240d8000732a09c.m3u8
-#EXTINF:-1  tvg-name="CBS News New York" tvg-id="5dc9b8223687ff000936ed79" tvg-logo="https://images.pluto.tv/channels/5dc9b8223687ff000936ed79/colorLogoPNG.png" tvg-chno="2550" group-title="PlutoTV - United Kingdom",CBS News New York
-https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8
 #EXTINF:-1  tvg-name="CBS News New York" tvg-id="5dc48170e280c80009a861ab" tvg-logo="https://images.pluto.tv/channels/5dc48170e280c80009a861ab/colorLogoPNG.png" tvg-chno="5180" group-title="PlutoTV - United Kingdom",CBS News New York
 https://jmp2.uk/plu-5dc48170e280c80009a861ab.m3u8
+#EXTINF:-1  tvg-name="CBS News New York" tvg-id="5dc9b8223687ff000936ed79" tvg-logo="https://images.pluto.tv/channels/5dc9b8223687ff000936ed79/colorLogoPNG.png" tvg-chno="2550" group-title="PlutoTV - United Kingdom",CBS News New York
+https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8
 #EXTINF:-1  tvg-name="CBS News Philadelphia" tvg-id="5eb1b05ea168cc000767ba67" tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png" tvg-chno="5210" group-title="PlutoTV - United Kingdom",CBS News Philadelphia
 https://jmp2.uk/plu-5eb1b05ea168cc000767ba67.m3u8
 #EXTINF:-1  tvg-name="CBS News Pittsburgh" tvg-id="5eb1b17aa5277e00083f6521" tvg-logo="https://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png" tvg-chno="5220" group-title="PlutoTV - United Kingdom",CBS News Pittsburgh
@@ -7925,10 +7925,10 @@ https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
 #EXTINF:-1  tvg-name="Star Trek Voyager" tvg-id="634dacf51d90320007fcd5fa" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG.png" tvg-chno="850" group-title="PlutoTV - United Kingdom",Star Trek Voyager
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
-#EXTINF:-1  tvg-name="Star Trek: The Motion Pictures" tvg-id="6695a2e4fe11e50008341303" tvg-logo="https://images.pluto.tv/channels/6695a2e4fe11e50008341303/colorLogoPNG.png" tvg-chno="856" group-title="PlutoTV - United Kingdom",Star Trek: The Motion Pictures
-https://jmp2.uk/plu-6695a2e4fe11e50008341303.m3u8
 #EXTINF:-1  tvg-name="Star Trek: The Motion Pictures" tvg-id="6675c88da1d7ad00084762cb" tvg-logo="https://images.pluto.tv/channels/6675c88da1d7ad00084762cb/colorLogoPNG.png" tvg-chno="25" group-title="PlutoTV - United Kingdom",Star Trek: The Motion Pictures
 https://jmp2.uk/plu-6675c88da1d7ad00084762cb.m3u8
+#EXTINF:-1  tvg-name="Star Trek: The Motion Pictures" tvg-id="6695a2e4fe11e50008341303" tvg-logo="https://images.pluto.tv/channels/6695a2e4fe11e50008341303/colorLogoPNG.png" tvg-chno="856" group-title="PlutoTV - United Kingdom",Star Trek: The Motion Pictures
+https://jmp2.uk/plu-6695a2e4fe11e50008341303.m3u8
 #EXTINF:-1  tvg-name="Stargate" tvg-id="620bfa7df72827000703ddb1" tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png" tvg-chno="860" group-title="PlutoTV - United Kingdom",Stargate
 https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8
 #EXTINF:-1  tvg-name="Stories by AMC" tvg-id="62f2ce24f328e00007e7f55a" tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png" tvg-chno="1070" group-title="PlutoTV - United Kingdom",Stories by AMC
@@ -9074,417 +9074,417 @@ https://jmp2.uk/stvp-US270000298
 
 #EXTGRP:PPVLand - Basketball Hub
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/a1c666c4107afe0b00951339bc379b00-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Aces at Sparks
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/wnba_sparks/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/a30ab9d76e98d820cf94fd68052a8d4f-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Liberty at Sky
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wnba_sky/index.m3u8
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://gg.poocloud.in/wnba_sky/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/43dd87293c6083a8e4ca7c1a19f19826-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Mercury at Wings
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wnba_wings/index.m3u8
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://gg.poocloud.in/wnba_wings/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/5973f8010a1cf07b226d719e55f6c994-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Valkyries at Lynx
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wnba_lynx/index.m3u8
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://gg.poocloud.in/wnba_lynx/tracks-v1a1/mono.ts.m3u8
 
 #EXTGRP:PPVLand - Combat Sports
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/01b6edf26aade273253ee2d9197d9c84-thumbnail.jpg" group-title="PPVLand - Combat Sports",Crocker vs. Donovan 2
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/boxing/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/0f8bfff71234c48f3abb49aa85ac3cf5-thumbnail.jpg" group-title="PPVLand - Combat Sports",Oktagon 75 (English)
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/oktagon-english/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/0f8bfff71234c48f3abb49aa85ac3cf5-thumbnail.jpg" group-title="PPVLand - Combat Sports",Oktagon 75 (German)
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/oktagon-german/index.m3u8
 
 #EXTGRP:PPVLand - Global Football Streams
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/c3652187d891f5946381d25dc9d84757-thumbnail.jpg" group-title="PPVLand - Global Football Streams",AJ Auxerre vs. AS Monaco
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ligue1_aj-auxerre/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/9cd8cb871842d1e43779d5863abd94db-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Ajax vs. Inter
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ucl_ajax/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/68ddaa2a466f29b939fb87bb71cb0e0b-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Arsenal vs. Nottingham Forest
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/epl_arsenal/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/6cc0798d1cd168a100489bcdee272e92-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Athletic Club vs. Arsenal
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ucl_athletic-club/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/257c429cf907ebb930bf1af607fc7cb5-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Athletic Club vs. Deportivo Alavés
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/laliga_athletic-club/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/187912e36da1b2e5c171f292ea4ab2c0-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Atlético de Madrid vs. Villarreal CF
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/laliga_atletico-de-madrid/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/86bd9a7659647e7e23837992c02db4fd-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Bayern München vs. Chelsea
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ucl_bayern-munchen/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/1a4c3d87888ceb7a5c7a9d390d1930ef-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Benfica vs. Qarabağ
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ucl_benfica/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/94d8c0cc3ca7bf1dd2b64f5456ad91a0-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Bournemouth vs. Brighton and Hove Albion
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/epl_bournemouth/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/c64232652f5a11534281acaa990e1fc1-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Brentford vs. Chelsea
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/epl_brentford/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/d329dbaaac7f473f55a4b5227f020c21-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Brest vs. Paris FC
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ligue1_brest/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/7a0cc2636cf1778baf6988c4425fd6a8-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Burnley vs. Liverpool
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/epl_burnley/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/a2aa75df8986a0484456fdd9193ce87f-thumbnail.jpg" group-title="PPVLand - Global Football Streams",CA Osasuna vs. Rayo Vallecano
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/laliga_c-a-osasuna/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/6b1ea0c40dcba9f68a53eb42e00904d9-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Celta vs. Girona FC
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/laliga_rc-celta/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/0f7aa82bde80806beb976484ca8e25e0-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Club Brugge vs. Monaco
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ucl_club-brugge/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/9554aec2891b78380bc0ebc1dad80435-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Copenhagen vs. Leverkusen
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ucl_copenhagen/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/51393ea9fac9c55cdb37497963e895c0-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Crystal Palace vs. Sunderland
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/epl_crystal-palace/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/b9bc1028faf13a810c417e35a3389d2d-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Everton vs. Aston Villa
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/epl_everton/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/59ede966acdd2f4f6bd367ab86d397fc-thumbnail.jpg" group-title="PPVLand - Global Football Streams",FC Barcelona vs. Valencia CF
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/laliga_fc-barcelona/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/b3477c00c44b410ce58f9c2bcbae3807-thumbnail.jpg" group-title="PPVLand - Global Football Streams",FC Metz vs. Angers SCO
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ligue1_fc-metz/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/054bb6df8777a17f70f9b5f782420f6f-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Frankfurt vs. Galatasaray
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ucl_frankfurt/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/0b514f7e7d264dd9ca7c0386591380e5-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Fulham vs. Leeds United
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/epl_fulham/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/5f8a819bdb7875b6c823eec12ce97257-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Getafe CF vs. Real Oviedo
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/laliga_getafe-cf/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/dc0b15f069401144079cc0217776da43-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Juventus vs. B. Dortmund
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ucl_juventus/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/7fd63679f4796590e9b2837776e133d3-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Levante UD vs. Real Betis
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/laliga_levante-ud/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/055a470b8c5797706cab75c25a849d10-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Liverpool vs. Atleti
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ucl_liverpool/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/0d0113ae32bbb045e6706ca39fd2251e-thumbnail.jpg" group-title="PPVLand - Global Football Streams",LOSC vs. Toulouse FC
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ligue1_losc/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/98a817a6c8f8eef1c941ebbcec3d8666-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Man City vs. Napoli
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ucl_man-city/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/9603ff2c942127b4f57cc89e3d2e7f22-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Manchester City vs. Manchester United
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/epl_man-city/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/e07a59aa2a9caad5294ae0658325b7eb-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Newcastle United vs. Wolverhampton Wanderers
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/epl_newcastle/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/a0e7710613728ed383a05a1b21781ebf-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Newcastle vs. Barcelona
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ucl_newcastle/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/ab716c331e1e21d165d241ef7f745771-thumbnail.jpg" group-title="PPVLand - Global Football Streams",OGC Nice vs. FC Nantes
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ligue1_ogc-nice/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/104c7aaad8c428f39dabb9674d6720b8-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Olympiacos vs. Pafos
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ucl_olympiacos/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/d626432d14f420c8d5add59275de7670-thumbnail.jpg" group-title="PPVLand - Global Football Streams",OM vs. FC Lorient
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ligue1_om/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/c4fdfcb930c275d43a7941dea371ab5c-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Paris vs. Atalanta
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ucl_paris/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/6044a1dc923f6d2df98f45e36880de40-thumbnail.jpg" group-title="PPVLand - Global Football Streams",PSG vs. RC Lens
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ligue1_psg/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/1e143f6ef8ea6885e0df7be8efee6415-thumbnail.jpg" group-title="PPVLand - Global Football Streams",PSV vs. Union SG
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ucl_psv/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/5e9531ee465c22960bf69c26653f61e9-thumbnail.jpg" group-title="PPVLand - Global Football Streams",RCD Espanyol de Barcelona vs. RCD Mallorca
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/laliga_rcd-espanyol/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/7643b7d0bbd5b7ec1459212458a99074-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Real Madrid vs. Marseille
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ucl_real-madrid/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/e07f56eeacc4598422e4c8acaeca5148-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Real Sociedad vs. Real Madrid
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/laliga_real-sociedad/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/9e8f908d1b0601b62e8cb8a78df6db67-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Rennes vs. OL
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ligue1_rennes/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/91234d96cbb0bc95d706c6de32606549-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Sevilla FC vs. Elche CF
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/laliga_sevilla-fc/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/e1013659b9ad285a268fbbb75b00ba8d-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Slavia Praha vs. Bodø/Glimt
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ucl_slavia-praha/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/2d829c0a0925fc49546b90c58fd6f8c5-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Sporting CP vs. Kairat Almaty
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ucl_sporting-cp/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/a51cd2afef9330d8754534e2afad562c-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Strasbourg vs. Havre AC
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ligue1_strasbourg/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/123c6b1077d70dff38a1efb1b7217fdc-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Tottenham vs. Villarreal
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/ucl_tottenham/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/9380c014fe74ec40a84574602b316605-thumbnail.jpg" group-title="PPVLand - Global Football Streams",West Ham United vs. Tottenham Hotspur
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/epl_west-ham/index.m3u8
 
 #EXTGRP:PPVLand - Live Channels 24/7
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 South Park
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/southpark/tracks-v1a1/mono.ts.m3u8
 
 #EXTGRP:PPVLand - MLB
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/ae2b1d17c96d982c0a6e920e0ff5579f-thumbnail.jpg" group-title="PPVLand - MLB",Colorado Rockies vs. San Diego Padres
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/padres/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/e10d71de175b498122e73fab40124f29-thumbnail.jpg" group-title="PPVLand - MLB",Detroit Tigers vs. New York Yankees
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/yankees/index.m3u8
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://gg.poocloud.in/yankees/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/d0a29478b4721cab99517095da2c47cb-thumbnail.jpg" group-title="PPVLand - MLB",Kansas City Royals vs. Cleveland Guardians
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/guardians/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/8971b329d6f619350f3b42915d3d548c-thumbnail.jpg" group-title="PPVLand - MLB",Los Angeles Angels vs. Seattle Mariners
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/mariners/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/4235a03b969f3636f4814117b1215a14-thumbnail.jpg" group-title="PPVLand - MLB",New York Mets vs. Philadelphia Phillies
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/phillies/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/46f53805e96421394ff5371a2b5b5b50-thumbnail.jpg" group-title="PPVLand - MLB",Washington Nationals vs. Miami Marlins
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/marlins/tracks-v1a1/mono.ts.m3u8
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://gg.poocloud.in/marlins/index.m3u8
 
 #EXTGRP:PPVLand - NFL Action
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/1dfac139e4eddee355b7f9e99a92c043-thumbnail.jpg" group-title="PPVLand - NFL Action",Atlanta Falcons vs. Minnesota Vikings
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/minnesotavikings/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/0c185e4b5b35f68327b52afa44eca167-thumbnail.jpg" group-title="PPVLand - NFL Action",Buffalo Bills vs. New York Jets
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/newyorkjets/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/f1ec185b2e752b34bc1846f83048c460-thumbnail.jpg" group-title="PPVLand - NFL Action",Carolina Panthers vs. Arizona Cardinals
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/arizonacardinals/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/e9a16eb83ff10772bbde89309105949a-thumbnail.jpg" group-title="PPVLand - NFL Action",Chicago Bears vs. Detroit Lions
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/detroitlions/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/c792e4f69b60c496abb5268c4cde38b3-thumbnail.jpg" group-title="PPVLand - NFL Action",Cleveland Browns vs. Baltimore Ravens
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/baltimoreravens/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/915d04aefc9838d8347f1dfc13804c0d-thumbnail.jpg" group-title="PPVLand - NFL Action",Denver Broncos vs. Indianapolis Colts
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/indianapoliscolts/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/6c6d2e33704a4702c605f4352682db26-thumbnail.jpg" group-title="PPVLand - NFL Action",Jacksonville Jaguars vs. Cincinnati Bengals
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/cincinnatibengals/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/607d501e58d006320766fac5f2826087-thumbnail.jpg" group-title="PPVLand - NFL Action",Los Angeles Chargers vs. Las Vegas Raiders
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/lasvegasraiders/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/1e626b02529f41982efe6613fbe829c7-thumbnail.jpg" group-title="PPVLand - NFL Action",Los Angeles Rams vs. Tennessee Titans
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/tennesseetitans/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/ffa2a4147ea6f4e7c9f24682df92ce7a-thumbnail.jpg" group-title="PPVLand - NFL Action",New England Patriots vs. Miami Dolphins
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/miamidolphins/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/d653320be9f308f86b251d5df9efe9b3-thumbnail.jpg" group-title="PPVLand - NFL Action",New York Giants vs. Dallas Cowboys
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/dallascowboys/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/02227b149844d1a2b7c36fa8e1ac3d88-thumbnail.jpg" group-title="PPVLand - NFL Action",Philadelphia Eagles vs. Kansas City Chiefs
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/kansascitychiefs/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/8e7fb879998b7f9330cf3d1d08f36e1c-thumbnail.jpg" group-title="PPVLand - NFL Action",San Francisco 49ers vs. New Orleans Saints
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/neworleanssaints/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/dc6a69c4ef4ae34f2529f1c2826c45ed-thumbnail.jpg" group-title="PPVLand - NFL Action",Seattle Seahawks vs. Pittsburgh Steelers
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/pittsburghsteelers/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/f8b2dd164f22f32b03397082b6920b9e-thumbnail.jpg" group-title="PPVLand - NFL Action",Tampa Bay Buccaneers vs. Houston Texans
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/houstontexans/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/49b69d94ca5f810b3c9173018fa1deb9-thumbnail.jpg" group-title="PPVLand - NFL Action",Washington Commanders vs. Green Bay Packers
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/greenbaypackers/index.m3u8
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://gg.poocloud.in/greenbaypackers/tracks-v1a1/mono.ts.m3u8
 
 #EXTGRP:PPVLand - Wrestling Events
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPVLand - Wrestling Events",AEW: Saturday Night Collision
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="PPVLand - Wrestling Events",TNA: Impact
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="PPVLand - Wrestling Events",WWE: Friday Night Smackdown
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://gg.poocloud.in/wrestling/index.m3u8
 
 #EXTGRP:RokuTV
 #EXTINF:-1  tvg-name="ABC7 Sarasota" tvg-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/50b18dea9c5c51568c1343fcd3d88ec9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746557592232_WWSB_EPG_Hud_LogoWWSB_HUD_logo_260x147_Centered.png" tvg-chno="4162" group-title="RokuTV",ABC7 Sarasota
@@ -13495,25 +13495,25 @@ https://tvpass.org/live/NickelodeonEast/sd
 https://tvpass.org/live/NicktoonsEast/hd
 #EXTINF:-1  tvg-name="Nicktoons East SD" tvg-id="nicktoons-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="TVPass",Nicktoons East SD
 https://tvpass.org/live/NicktoonsEast/sd
-#EXTINF:-1  tvg-name="PBS (WNET) New York" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" group-title="TVPass",NY HD
+#EXTINF:-1  tvg-name="CBS (WCBS) New York " tvg-id="cbs-wcbs-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="TVPass",NY HD
 https://tvpass.org/live/WNET/hd
 #EXTINF:-1  tvg-name="FOX (WNYW) New York" tvg-id="fox-wnyw-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="TVPass",NY HD
 https://tvpass.org/live/WNET/hd
-#EXTINF:-1  tvg-name="NBC (WNBC) New York" tvg-id="nbc-wnbc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" group-title="TVPass",NY HD
-https://tvpass.org/live/WNET/hd
-#EXTINF:-1  tvg-name="CBS (WCBS) New York " tvg-id="cbs-wcbs-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="TVPass",NY HD
-https://tvpass.org/live/WNET/hd
 #EXTINF:-1  tvg-name="ABC (WABC) New York" tvg-id="abc-wabc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" group-title="TVPass",NY HD
 https://tvpass.org/live/WNET/hd
-#EXTINF:-1  tvg-name="NBC (WNBC) New York" tvg-id="nbc-wnbc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" group-title="TVPass",NY SD
-https://tvpass.org/live/WNET/sd
-#EXTINF:-1  tvg-name="FOX (WNYW) New York " tvg-id="fox-wnyw-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="TVPass",NY SD
-https://tvpass.org/live/WNET/sd
-#EXTINF:-1  tvg-name="ABC (WABC) New York " tvg-id="abc-wabc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" group-title="TVPass",NY SD
-https://tvpass.org/live/WNET/sd
+#EXTINF:-1  tvg-name="NBC (WNBC) New York" tvg-id="nbc-wnbc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" group-title="TVPass",NY HD
+https://tvpass.org/live/WNET/hd
+#EXTINF:-1  tvg-name="PBS (WNET) New York" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" group-title="TVPass",NY HD
+https://tvpass.org/live/WNET/hd
 #EXTINF:-1  tvg-name="PBS (WNET) New York" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" group-title="TVPass",NY SD
 https://tvpass.org/live/WNET/sd
 #EXTINF:-1  tvg-name="CBS (WCBS) New York " tvg-id="cbs-wcbs-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="TVPass",NY SD
+https://tvpass.org/live/WNET/sd
+#EXTINF:-1  tvg-name="ABC (WABC) New York " tvg-id="abc-wabc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" group-title="TVPass",NY SD
+https://tvpass.org/live/WNET/sd
+#EXTINF:-1  tvg-name="FOX (WNYW) New York " tvg-id="fox-wnyw-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="TVPass",NY SD
+https://tvpass.org/live/WNET/sd
+#EXTINF:-1  tvg-name="NBC (WNBC) New York" tvg-id="nbc-wnbc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" group-title="TVPass",NY SD
 https://tvpass.org/live/WNET/sd
 #EXTINF:-1  tvg-name="Oprah Winfrey Network USA Eastern HD" tvg-id="oprah-winfrey-network-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="TVPass",Oprah Winfrey Network USA Eastern HD
 https://tvpass.org/live/OWNEast/hd
