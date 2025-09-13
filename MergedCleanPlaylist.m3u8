@@ -3937,8 +3937,6 @@ https://mt01.utako.moe/bsntv/index.m3u8
 https://mt01.utako.moe/bstbs/index.m3u8
 #EXTINF:-1 group-title="JapanTV" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
 https://mt01.utako.moe/bstvtokyo/index.m3u8
-#EXTINF:-1 group-title="JapanTV" tvg-id="bs_tv_tokyo_4k" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/bs_tv_tokyo_4k.jpg",BS TV Tokyo 4K (test)
-https://mt01.utako.moe/bstx4k/index.m3u8
 #EXTINF:-1 group-title="JapanTV" tvg-id="bs10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Japan_BS10_logo.svg/250px-Japan_BS10_logo.svg.png",BS10
 https://mt01.utako.moe/bs10/index.m3u8
 #EXTINF:-1 group-title="JapanTV" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
@@ -3973,8 +3971,6 @@ https://mt01.utako.moe/gaora/index.m3u8
 https://mt01.utako.moe/green/index.m3u8
 #EXTINF:-1 group-title="JapanTV" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",Home Drama Channel
 https://ca01.utako.moe/homedrama/index.m3u8
-#EXTINF:-1 group-title="JapanTV" tvg-id="jcom_bs" tvg-logo="https://www.shochiku-tokyu.co.jp/common/img/common/logo-jcombs.png",JCOM BS
-https://mt01.utako.moe/jcom_bs/index.m3u8
 #EXTINF:-1 group-title="JapanTV" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
 https://mt01.utako.moe/js1/index.m3u8
 #EXTINF:-1 group-title="JapanTV" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
