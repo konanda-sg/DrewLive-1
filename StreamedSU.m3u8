@@ -1,11 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",Aces at Storm (Game 2) (English - HD)
 https://gg.poocloud.in/wnba_storm/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="StreamedSU - Basketball",Dream at Fever (Game 2) (English - HD)
-https://gg.poocloud.in/wnba_fever/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Havre AC vs. FC Lorient (English - HD)
-https://gg.poocloud.in/ligue1_as-monaco/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Arsenal vs. Manchester City (English - HD)
-https://gg.poocloud.in/ligue1_aj-auxerre/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Napoli vs. Pisa (English - HD)
-https://gg.poocloud.in/ligue1_om/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDNgABh7luIHX1y6DKQyRAwQIAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - Football",Olympiacos vs Pafos (English - HD)
+https://gg.poocloud.in/ucl_olympiacos/index.m3u8
