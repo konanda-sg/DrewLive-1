@@ -206,9 +206,9 @@ http://38.143.48.212:9981/stream/channelid/1520310405?profile=pass
 #EXTINF:-1 tvg-id="casa.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/CASA_2021_logo.png" group-title="AriaPlus - Canada",CASA
 http://stream.ultimate-tvservice.com:8080/live/Jalen/Jalen16/265319.ts
 #EXTINF:-1 tvg-id="CBC.News.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-news-network-ca.png" group-title="AriaPlus - Canada",CBC News Network
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40760.ts
-#EXTINF:-1 tvg-id="CBC.News.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-news-network-ca.png" group-title="AriaPlus - Canada",CBC News Network
 http://38.143.48.212:9981/stream/channelid/1944859004?profile=pass
+#EXTINF:-1 tvg-id="CBC.News.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-news-network-ca.png" group-title="AriaPlus - Canada",CBC News Network
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40760.ts
 #EXTINF:-1 tvg-id="CBOT.HDTV.(CBOTHD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ottawa-ca.png" group-title="AriaPlus - Canada",CBC Ottawa (CBOT)
 http://38.143.48.212:9981/stream/channelid/677345170?profile=pass
 #EXTINF:-1 tvg-id="CBC.(CBLT).Toronto.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-toronto-ca.png" group-title="AriaPlus - Canada",CBC Toronto (CBLT)
@@ -230,9 +230,9 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40741.ts
 #EXTINF:-1 tvg-id="CP24.(CablePulse.24).ca" tvg-logo="https://media.starlite.best/cp24.cablepulse.24.ca.png" group-title="AriaPlus - Canada",CP24
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40740.ts
 #EXTINF:-1 tvg-id="cpac.francais.ca" tvg-logo="https://media.starlite.best/cpac.francais.ca.png" group-title="AriaPlus - Canada",CPAC
-https://tvnow.best/api/stream/burns/burns/livetv.epg/cpac.francais.ca.m3u8
-#EXTINF:-1 tvg-id="cpac.francais.ca" tvg-logo="https://media.starlite.best/cpac.francais.ca.png" group-title="AriaPlus - Canada",CPAC
 http://38.143.48.212:9981/stream/channelid/1514524920?profile=pass
+#EXTINF:-1 tvg-id="cpac.francais.ca" tvg-logo="https://media.starlite.best/cpac.francais.ca.png" group-title="AriaPlus - Canada",CPAC
+https://tvnow.best/api/stream/burns/burns/livetv.epg/cpac.francais.ca.m3u8
 #EXTINF:-1 tvg-id="Crave1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-1-ca.png" group-title="AriaPlus - Canada",Crave 1
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40656.ts
 #EXTINF:-1 tvg-id="Crave2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-2-ca.png" group-title="AriaPlus - Canada",Crave 2
@@ -250,9 +250,9 @@ http://38.143.48.212:9981/stream/channelid/133843306?profile=pass
 #EXTINF:-1 tvg-id="CTV.Life.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-life-channel-ca.png" group-title="AriaPlus - Canada",CTV Life
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/5216.ts
 #EXTINF:-1 tvg-id="CTV.Nature.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-nature-channel-ca.png" group-title="AriaPlus - Canada",CTV Nature
-https://theariatv.github.io/channeldead.mp4
-#EXTINF:-1 tvg-id="CTV.Nature.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-nature-channel-ca.png" group-title="AriaPlus - Canada",CTV Nature
 http://38.143.48.212:9981/stream/channelid/1405285984?profile=pass
+#EXTINF:-1 tvg-id="CTV.Nature.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-nature-channel-ca.png" group-title="AriaPlus - Canada",CTV Nature
+https://theariatv.github.io/channeldead.mp4
 #EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-logo="https://media.starlite.best/ctv.news.channel.ca.png" group-title="AriaPlus - Canada",CTV News
 http://38.143.48.212:9981/stream/channelid/1877863586?profile=pass
 #EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-logo="https://media.starlite.best/ctv.news.channel.ca.png" group-title="AriaPlus - Canada",CTV News
@@ -260,15 +260,15 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40735.ts
 #EXTINF:-1 tvg-id="CTV.Sci-Fi.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-sci-fi-channel-ca.png" group-title="AriaPlus - Canada",CTV Sci Fi
 http://38.143.48.212:9981/stream/channelid/191789153?profile=pass
 #EXTINF:-1 tvg-id="CTV.Speed.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-speed-channel-ca.png" group-title="AriaPlus - Canada",CTV Speed
-https://theariatv.github.io/channeldead.mp4
-#EXTINF:-1 tvg-id="CTV.Speed.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-speed-channel-ca.png" group-title="AriaPlus - Canada",CTV Speed
 http://38.143.48.212:9981/stream/channelid/587702128?profile=pass
+#EXTINF:-1 tvg-id="CTV.Speed.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-speed-channel-ca.png" group-title="AriaPlus - Canada",CTV Speed
+https://theariatv.github.io/channeldead.mp4
 #EXTINF:-1 tvg-id="CTV.(CFTO).Toronto group-title="AriaPlus - Canada",.ON.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png",CTV Toronto (CTFO)
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.cfto.toronto.on.ca.m3u8
 #EXTINF:-1 tvg-id="CTV.Wild.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-wild-channel-ca.png" group-title="AriaPlus - Canada",CTV Wild
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40775.ts
-#EXTINF:-1 tvg-id="CTV.Wild.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-wild-channel-ca.png" group-title="AriaPlus - Canada",CTV Wild
 http://38.143.48.212:9981/stream/channelid/2101272479?profile=pass
+#EXTINF:-1 tvg-id="CTV.Wild.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-wild-channel-ca.png" group-title="AriaPlus - Canada",CTV Wild
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40775.ts
 #EXTINF:-1 tvg-id="CTV.(CKY).Winnipeg group-title="AriaPlus - Canada",.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png",CTV Winnipeg (CKY)
 http://38.143.48.212:9981/stream/channelid/741174107?profile=pass
 #EXTINF:-1 tvg-id="CTV2.Barrie group-title="AriaPlus - Canada",.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png",CTV2 Barrie (CKVR)
@@ -284,9 +284,9 @@ http://kstv.us:8080/live/Purn3542/38791114838/40725.ts
 #EXTINF:-1 tvg-id="Documentary.Channel.(Canada).ca" tvg-logo="https://media.starlite.best/documentary.channel.canada.ca.png" group-title="AriaPlus - Canada",Documentary
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40721.ts
 #EXTINF:-1 tvg-id="dtour.ca" tvg-logo="https://media.starlite.best/dtour.ca.png" group-title="AriaPlus - Canada",DTOUR
-http://38.143.48.212:9981/stream/channelid/1459580512?profile=pass
-#EXTINF:-1 tvg-id="dtour.ca" tvg-logo="https://media.starlite.best/dtour.ca.png" group-title="AriaPlus - Canada",DTOUR
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/5226.ts
+#EXTINF:-1 tvg-id="dtour.ca" tvg-logo="https://media.starlite.best/dtour.ca.png" group-title="AriaPlus - Canada",DTOUR
+http://38.143.48.212:9981/stream/channelid/1459580512?profile=pass
 #EXTINF:-1 tvg-id="E!.Canada.ca" tvg-logo="https://media.starlite.best/e.canada.ca.png" group-title="AriaPlus - Canada",E!
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/5227.ts
 #EXTINF:-1 tvg-id="elle.fictions.ca" tvg-logo="https://media.starlite.best/elle.fictions.ca.png" group-title="AriaPlus - Canada",ELLE Fictions
@@ -314,9 +314,9 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40743.ts
 #EXTINF:-1 tvg-id="Flavour.Network.Canada.ca" tvg-logo="https://i.ibb.co/Fb8t9Gh9/Flavour-Network-logo-svg.png" group-title="AriaPlus - Canada",Flavour Network
 http://38.143.48.212:9981/stream/channelid/1724607227?profile=pass
 #EXTINF:-1 tvg-id="Food.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/food-network-us.png" group-title="AriaPlus - Canada",Food Network
-http://38.143.48.212:9981/stream/channelid/1724607227?profile=pass
-#EXTINF:-1 tvg-id="Food.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/food-network-us.png" group-title="AriaPlus - Canada",Food Network
 http://zorrohunter.com:80/live/WeaponX/Dawkins22/40710.ts
+#EXTINF:-1 tvg-id="Food.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/food-network-us.png" group-title="AriaPlus - Canada",Food Network
+http://38.143.48.212:9981/stream/channelid/1724607227?profile=pass
 #EXTINF:-1 tvg-id="Fox.Sports.Racing.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/fox-sports-racing-ca.png" group-title="AriaPlus - Canada",Fox Sports Racing
 http://speccy.pw:8080/live/111111/111111/316980.ts
 #EXTINF:-1 tvg-id="Frisson.TV.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Frissons_TV_New.png" group-title="AriaPlus - Canada",Frisson TV
@@ -398,13 +398,13 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40681.ts
 #EXTINF:-1 tvg-id="MovieTime.ca" tvg-logo="https://media.starlite.best/movietime.ca.png" group-title="AriaPlus - Canada",Movie Time
 http://38.143.48.212:9981/stream/channelid/1403847081?profile=pass
 #EXTINF:-1 tvg-id="much.music.ca" tvg-logo="https://media.starlite.best/much.music.ca.png" group-title="AriaPlus - Canada",Much
-http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112805.ts
-#EXTINF:-1 tvg-id="much.music.ca" tvg-logo="https://media.starlite.best/much.music.ca.png" group-title="AriaPlus - Canada",Much
 http://38.143.48.212:9981/stream/channelid/1454901099?profile=pass
-#EXTINF:-1 tvg-id="National.Geographic.Canada.ca" tvg-logo="https://media.starlite.best/national.geographic.canada.ca.png" group-title="AriaPlus - Canada",National Geographic
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40674.ts
+#EXTINF:-1 tvg-id="much.music.ca" tvg-logo="https://media.starlite.best/much.music.ca.png" group-title="AriaPlus - Canada",Much
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112805.ts
 #EXTINF:-1 tvg-id="National.Geographic.Canada.ca" tvg-logo="https://media.starlite.best/national.geographic.canada.ca.png" group-title="AriaPlus - Canada",National Geographic
 http://38.143.48.212:9981/stream/channelid/1422297878?profile=pass
+#EXTINF:-1 tvg-id="National.Geographic.Canada.ca" tvg-logo="https://media.starlite.best/national.geographic.canada.ca.png" group-title="AriaPlus - Canada",National Geographic
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40674.ts
 #EXTINF:-1 tvg-id="National.Geographic.Wild.Canada.ca" tvg-logo="https://i.ibb.co/N28fsF0z/National-Geographic-Wild-logo-svg.png" group-title="AriaPlus - Canada",National Geographic Wild
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48380.ts
 #EXTINF:-1 tvg-id="NBA.TV.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/nba-tv-ca.png" group-title="AriaPlus - Canada",NBA TV Canada
@@ -458,15 +458,15 @@ http://38.143.48.212:9981/stream/channelid/1618628267?profile=pass
 #EXTINF:-1 tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.east.ca.png" group-title="AriaPlus - Canada",Sportsnet East
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2045.ts
 #EXTINF:-1 tvg-id="sportsnet.one.ca" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" group-title="AriaPlus - Canada",Sportsnet One
-http://38.143.48.212:9981/stream/channelid/390027408?profile=pass
-#EXTINF:-1 tvg-id="sportsnet.one.ca" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" group-title="AriaPlus - Canada",Sportsnet One
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2046.ts
+#EXTINF:-1 tvg-id="sportsnet.one.ca" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" group-title="AriaPlus - Canada",Sportsnet One
+http://38.143.48.212:9981/stream/channelid/390027408?profile=pass
 #EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://media.starlite.best/sportsnet.ontario.ca.png" group-title="AriaPlus - Canada",Sportsnet Ontario
 http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228746.ts
 #EXTINF:-1 tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png" group-title="AriaPlus - Canada",Sportsnet Pacific
-http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2049.ts
-#EXTINF:-1 tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png" group-title="AriaPlus - Canada",Sportsnet Pacific
 http://38.143.48.212:9981/stream/channelid/1546770827?profile=pass
+#EXTINF:-1 tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png" group-title="AriaPlus - Canada",Sportsnet Pacific
+http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2049.ts
 #EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.west.ca.png" group-title="AriaPlus - Canada",Sportsnet West
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2050.ts
 #EXTINF:-1 tvg-id="STARZ1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/starz-1-ca.png" group-title="AriaPlus - Canada",STARZ
@@ -502,9 +502,9 @@ http://38.143.48.212:9981/stream/channelid/2028752686?profile=pass
 #EXTINF:-1 tvg-id="TLN.ca" tvg-logo="https://i.ibb.co/cKnhRZX6/TLN-2015.png" group-title="AriaPlus - Canada",TLN
 https://tvnow.best/api/stream/burns/burns/livetv.epg/tln.west.ca.m3u8
 #EXTINF:-1 tvg-id="treehouse.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/treehouse-ca.png" group-title="AriaPlus - Canada",Treehouse
-http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/107536.ts
-#EXTINF:-1 tvg-id="treehouse.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/treehouse-ca.png" group-title="AriaPlus - Canada",Treehouse
 http://38.143.48.212:9981/stream/channelid/704089388?profile=pass
+#EXTINF:-1 tvg-id="treehouse.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/treehouse-ca.png" group-title="AriaPlus - Canada",Treehouse
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/107536.ts
 #EXTINF:-1 tvg-id="TSC.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsc-ca.png" group-title="AriaPlus - Canada",TSC
 http://speccy.pw:8080/live/111111/111111/317088.ts
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png" group-title="AriaPlus - Canada",TSN 1
@@ -530,9 +530,9 @@ http://stream.ultimate-tvservice.com:8080/live/Jalen/Jalen16/265220.ts
 #EXTINF:-1 tvg-id="TVA.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tva-ca.png" group-title="AriaPlus - Canada",TVA West
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112931.ts
 #EXTINF:-1 tvg-id="TVO.Toronto.ON.ca" tvg-logo="https://i.ibb.co/cXNyTPHW/TVOntario-2022.png" group-title="AriaPlus - Canada",TVO
-http://38.143.48.212:9981/stream/channelid/984041359?profile=pass
-#EXTINF:-1 tvg-id="TVO.Toronto.ON.ca" tvg-logo="https://i.ibb.co/cXNyTPHW/TVOntario-2022.png" group-title="AriaPlus - Canada",TVO
 http://user.scalecdn.co:8080/live/26725074/92867131/59856.ts
+#EXTINF:-1 tvg-id="TVO.Toronto.ON.ca" tvg-logo="https://i.ibb.co/cXNyTPHW/TVOntario-2022.png" group-title="AriaPlus - Canada",TVO
+http://38.143.48.212:9981/stream/channelid/984041359?profile=pass
 #EXTINF:-1 tvg-id="tltoon.franais.ca" tvg-logo="https://media.starlite.best/tltoon.franais.ca.png" group-title="AriaPlus - Canada",Télétoon
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40604.ts
 #EXTINF:-1 tvg-id="tv5.international.east.ca" tvg-logo="https://m1.quebecormedia.com/emp/emp/523b7520-b555-11ee-a6d6-3701d1640652_ORIGINAL.jpg?impolicy=crop-resize&x=0&y=0&w=1200&h=312&width=925" group-title="AriaPlus - Canada",Témoin
@@ -1279,9 +1279,9 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium679%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 #EXTINF:-1  tvg-id="Sky.Comedy.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-comedy-icon-uk.png?raw=true" group-title="DaddyLive UK",Sky Comedy UK
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium678%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-#EXTINF:-1  tvg-id="Sky.Crime.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-crime-uk.png?raw=true" group-title="DaddyLive UK",Sky Crime
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium685%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 #EXTINF:-1  tvg-id="Sky.Crime.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-crime-icon-uk.png?raw=true" group-title="DaddyLive UK",Sky Crime
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium685%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Sky.Crime.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-crime-uk.png?raw=true" group-title="DaddyLive UK",Sky Crime
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium685%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 #EXTINF:-1  tvg-id="Sky.HistoryHD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-history-light-uk.png?raw=true" group-title="DaddyLive UK",Sky History
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium686%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
@@ -6169,10 +6169,10 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ce3fc05906
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f11395586633e88e3a3274.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 #EXTINF:-1  tvg-name="TWDU" tvg-id="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" tvg-logo="https://provider-static.plex.tv/epg/cms/production/17192c32-77cd-4da0-bc8e-e64836d08592/AMCN_TWDU_Plex_logo_dark_v01.png" group-title="PlexTV",The Walking Dead Universe
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-66ad6b4fcb5d3b7fb5011c2f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b9255584-5d8d-4ccf-bd10-e7cf61170bb7/wpt_logo_ATTRIBUTION__1_.png" group-title="PlexTV",The World Poker Tour
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ad6b4fcb5d3b7fb5011c2f.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-656fa24bdbcce28c3a417415" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dec2021c-78a9-47b9-ae15-5e92623ecbde/wpt_logo__1_.png" group-title="PlexTV",The World Poker Tour
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656fa24bdbcce28c3a417415.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-66ad6b4fcb5d3b7fb5011c2f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b9255584-5d8d-4ccf-bd10-e7cf61170bb7/wpt_logo_ATTRIBUTION__1_.png" group-title="PlexTV",The World Poker Tour
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ad6b4fcb5d3b7fb5011c2f.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-62e3232ca105dea9c400e9fe" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d4b6f778-c8f5-47cd-b6a4-266b73842fc8/TOHLogo_1500x1000.png" group-title="PlexTV",This Old House
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62e3232ca105dea9c400e9fe.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-63c1e176f0f132afc3afbab0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0bd0b2e2-032c-4fa2-b161-8996fd3284d7/Tiny_House_Nation_COLOR_Logo_RDX.png" group-title="PlexTV",Tiny House Nation
@@ -6929,10 +6929,10 @@ https://jmp2.uk/plu-5eb1aeb2fd4b8a00076c2047.m3u8
 https://jmp2.uk/plu-5eb1b12146cba40007aa7e5d.m3u8
 #EXTINF:-1  tvg-name="CBS News Detroit" tvg-id="634f2610d5023700078f7dee" tvg-logo="https://images.pluto.tv/channels/634f2610d5023700078f7dee/colorLogoPNG.png" tvg-chno="5140" group-title="PlutoTV - United Kingdom",CBS News Detroit
 https://jmp2.uk/plu-634f2610d5023700078f7dee.m3u8
-#EXTINF:-1  tvg-name="CBS News Los Angeles" tvg-id="5dc9b875e280c80009a8a44a" tvg-logo="https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png" tvg-chno="2560" group-title="PlutoTV - United Kingdom",CBS News Los Angeles
-https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
 #EXTINF:-1  tvg-name="CBS News Los Angeles" tvg-id="5dc481cda1d430000948a1b4" tvg-logo="https://images.pluto.tv/channels/5dc481cda1d430000948a1b4/colorLogoPNG.png" tvg-chno="5150" group-title="PlutoTV - United Kingdom",CBS News Los Angeles
 https://jmp2.uk/plu-5dc481cda1d430000948a1b4.m3u8
+#EXTINF:-1  tvg-name="CBS News Los Angeles" tvg-id="5dc9b875e280c80009a8a44a" tvg-logo="https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png" tvg-chno="2560" group-title="PlutoTV - United Kingdom",CBS News Los Angeles
+https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
 #EXTINF:-1  tvg-name="CBS News Miami" tvg-id="62cdc8fdb05d2b0007ef5035" tvg-logo="https://images.pluto.tv/channels/62cdc8fdb05d2b0007ef5035/colorLogoPNG.png" tvg-chno="2570" group-title="PlutoTV - United Kingdom",CBS News Miami
 https://jmp2.uk/plu-62cdc8fdb05d2b0007ef5035.m3u8
 #EXTINF:-1  tvg-name="CBS News Miami" tvg-id="60fb299b79498900070b29e0" tvg-logo="https://images.pluto.tv/channels/60fb299b79498900070b29e0/colorLogoPNG.png" tvg-chno="2570" group-title="PlutoTV - United Kingdom",CBS News Miami
@@ -8561,12 +8561,12 @@ https://jmp2.uk/stvp-US270000298
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ABC/index.m3u8
+https://gg.poocloud.in/ABC/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/038dcd14f326ebb53305c162023065cc-thumbnail.jpg" group-title="PPVLand - College Football",Florida Gators vs. Miami Hurricanes
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ABC/index.m3u8
+https://gg.poocloud.in/ABC/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/57b28de7e5a1ac7d7d2291b72c8763af-thumbnail.jpg" group-title="PPVLand - College Football",Illinois Fighting Illini vs. Indiana Hoosiers
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -8581,7 +8581,7 @@ https://gg.poocloud.in/ACCN/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/FOX/index.m3u8
+https://gg.poocloud.in/FOX/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6dbc881e64d1dc313a42e1b78efc76dc-thumbnail.jpg" group-title="PPVLand - College Football",Michigan Wolverines vs. Nebraska Cornhuskers
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -8591,7 +8591,7 @@ https://gg.poocloud.in/CBS/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/BTN/index.m3u8
+https://gg.poocloud.in/BTN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/23d7c31222d031dc613545b4aa22b99c-thumbnail.jpg" group-title="PPVLand - College Football",Purdue Boilermakers vs. Notre Dame Fighting Irish
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -8601,7 +8601,7 @@ https://gg.poocloud.in/NBC/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/SECN/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/SECN/index.m3u8
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f95297ef52d5a276ce71eafe2fe0f82d-thumbnail.jpg" group-title="PPVLand - College Football",South Carolina Gamecocks vs. Missouri Tigers
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -8612,11 +8612,6 @@ https://gg.poocloud.in/ESPN/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/977b276a71347ef3cdf12755c0aa5901-thumbnail.jpg" group-title="PPVLand - College Football",UAB Blazers vs. Tennessee Volunteers
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/SECN/tracks-v1a1/mono.ts.m3u8
 
 #EXTGRP:PPVLand - Global Football Streams
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/205b528da2610de6572e9c79ba9baf98-thumbnail.jpg" group-title="PPVLand - Global Football Streams",AJ Auxerre vs. Toulouse FC
@@ -8639,21 +8634,11 @@ https://gg.poocloud.in/ligue1_as-monaco/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/epl_bournemouth/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/11665a1b3be990a69b18193151714d17-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Brest vs. OGC Nice
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ligue1_brest/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f1fc878f125edb6edf5b118136cff431-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Cremonese vs. Parma
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/seriea_cremonese/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6724a1ab538581b33a924fba5c8f422b-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Deportivo Alavés vs. Sevilla FC
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/laliga_d-alaves/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a73ac2ed84e111f26b434a3dee36c37c-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Dortmund vs. Wolfsburg
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -8704,11 +8689,6 @@ https://gg.poocloud.in/seriea_lazio/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/bundesliga_leverkusen/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/956e416bd5f71ab0fbd2b45aaddc7ff4-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Manchester United vs. Chelsea
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/epl_man-utd/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d65d076b02db76be7786f45e55f8cd44-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Napoli vs. Pisa
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -8729,11 +8709,6 @@ https://gg.poocloud.in/ligue1_paris-fc/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/laliga_rayo-vallecano/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5c5704dafb44aed531d3169bf65db0e1-thumbnail.jpg" group-title="PPVLand - Global Football Streams",RB Leipzig vs. Cologne
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/bundesliga_rb-leipzig/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4f756dd4ab9fc097ab69ab46173b9564-thumbnail.jpg" group-title="PPVLand - Global Football Streams",RC Lens vs. LOSC
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -8758,17 +8733,12 @@ https://gg.poocloud.in/seriea_torino/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/seriea_udinese/index.m3u8
+https://gg.poocloud.in/seriea_udinese/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e2860f2b9e29de5c4245d9c7acc5cebf-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Valencia CF vs. Athletic Club
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/laliga_valencia-cf/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f8b3711183be39cd5d526ef6d92cb456-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Villarreal CF vs. CA Osasuna
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/laliga_villarreal-cf/index.m3u8
+https://gg.poocloud.in/laliga_valencia-cf/index.m3u8
 
 #EXTGRP:PPVLand - Live Channels 24/7
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7b1146f3a2bd19175749404e676d5127-thumbnail.jpg" group-title="PPVLand - Live Channels 24/7",(North) Korean Central Television
@@ -8781,7 +8751,7 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIz
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family‌​​​​‌‌‌​‌‌‌​‌‌‌‌‌‌​‌‌‌‌​​‌​​​‌​ Guy
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌‌​​​​‌​​​‌​‌​​ Guy
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -8803,23 +8773,23 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8
 
 #EXTGRP:PPVLand - Live Now
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2fe71b1c27311358811b45af03da7d77-thumbnail.jpg" group-title="PPVLand - Live Now",AEW: All Out 2025
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/aew/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/19a121b1b08de43c6641563ded8ec549-thumbnail.jpg" group-title="PPVLand - Live Now",OKTAGON 76 (English)
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/oktagon-english/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/oktagon-english/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/19a121b1b08de43c6641563ded8ec549-thumbnail.jpg" group-title="PPVLand - Live Now",OKTAGON 76 (German)
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/oktagon-german/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/oktagon-german/index.m3u8
 
 #EXTGRP:PPVLand - MLB
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5d34626407c1eb07daaa103187625c64-thumbnail.jpg" group-title="PPVLand - MLB",Atlanta Braves vs. Detroit Tigers
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/tigers/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/01a0f2e734d5faec3b0357fd91fc47d1-thumbnail.jpg" group-title="PPVLand - MLB",Chicago Cubs vs. Cincinnati Reds
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -8844,7 +8814,7 @@ https://gg.poocloud.in/astros/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/mets/index.m3u8
+https://gg.poocloud.in/mets/tracks-v1a1/mono.ts.m3u8
 
 #EXTGRP:RokuTV
 #EXTINF:-1  tvg-name="ABC7 Sarasota" tvg-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/50b18dea9c5c51568c1343fcd3d88ec9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746557592232_WWSB_EPG_Hud_LogoWWSB_HUD_logo_260x147_Centered.png" tvg-chno="4162" group-title="RokuTV",ABC7 Sarasota
@@ -13111,25 +13081,25 @@ https://tvpass.org/live/NickelodeonEast/sd
 https://tvpass.org/live/NicktoonsEast/hd
 #EXTINF:-1  tvg-name="Nicktoons East SD" tvg-id="nicktoons-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="TVPass",Nicktoons East SD
 https://tvpass.org/live/NicktoonsEast/sd
-#EXTINF:-1  tvg-name="FOX (WNYW) New York" tvg-id="fox-wnyw-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="TVPass",NY HD
-https://tvpass.org/live/WNET/hd
-#EXTINF:-1  tvg-name="PBS (WNET) New York" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" group-title="TVPass",NY HD
-https://tvpass.org/live/WNET/hd
 #EXTINF:-1  tvg-name="CBS (WCBS) New York " tvg-id="cbs-wcbs-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="TVPass",NY HD
-https://tvpass.org/live/WNET/hd
-#EXTINF:-1  tvg-name="ABC (WABC) New York" tvg-id="abc-wabc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" group-title="TVPass",NY HD
 https://tvpass.org/live/WNET/hd
 #EXTINF:-1  tvg-name="NBC (WNBC) New York" tvg-id="nbc-wnbc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" group-title="TVPass",NY HD
 https://tvpass.org/live/WNET/hd
+#EXTINF:-1  tvg-name="PBS (WNET) New York" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" group-title="TVPass",NY HD
+https://tvpass.org/live/WNET/hd
+#EXTINF:-1  tvg-name="ABC (WABC) New York" tvg-id="abc-wabc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" group-title="TVPass",NY HD
+https://tvpass.org/live/WNET/hd
+#EXTINF:-1  tvg-name="FOX (WNYW) New York" tvg-id="fox-wnyw-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="TVPass",NY HD
+https://tvpass.org/live/WNET/hd
 #EXTINF:-1  tvg-name="ABC (WABC) New York " tvg-id="abc-wabc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" group-title="TVPass",NY SD
-https://tvpass.org/live/WNET/sd
-#EXTINF:-1  tvg-name="CBS (WCBS) New York " tvg-id="cbs-wcbs-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="TVPass",NY SD
-https://tvpass.org/live/WNET/sd
-#EXTINF:-1  tvg-name="NBC (WNBC) New York" tvg-id="nbc-wnbc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" group-title="TVPass",NY SD
 https://tvpass.org/live/WNET/sd
 #EXTINF:-1  tvg-name="FOX (WNYW) New York " tvg-id="fox-wnyw-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="TVPass",NY SD
 https://tvpass.org/live/WNET/sd
 #EXTINF:-1  tvg-name="PBS (WNET) New York" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" group-title="TVPass",NY SD
+https://tvpass.org/live/WNET/sd
+#EXTINF:-1  tvg-name="NBC (WNBC) New York" tvg-id="nbc-wnbc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" group-title="TVPass",NY SD
+https://tvpass.org/live/WNET/sd
+#EXTINF:-1  tvg-name="CBS (WCBS) New York " tvg-id="cbs-wcbs-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="TVPass",NY SD
 https://tvpass.org/live/WNET/sd
 #EXTINF:-1  tvg-name="Oprah Winfrey Network USA Eastern HD" tvg-id="oprah-winfrey-network-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="TVPass",Oprah Winfrey Network USA Eastern HD
 https://tvpass.org/live/OWNEast/hd
