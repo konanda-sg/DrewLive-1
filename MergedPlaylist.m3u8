@@ -250,9 +250,9 @@ http://38.143.48.212:9981/stream/channelid/133843306?profile=pass
 #EXTINF:-1 tvg-id="CTV.Life.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-life-channel-ca.png" group-title="AriaPlus - Canada",CTV Life
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/5216.ts
 #EXTINF:-1 tvg-id="CTV.Nature.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-nature-channel-ca.png" group-title="AriaPlus - Canada",CTV Nature
-http://38.143.48.212:9981/stream/channelid/1405285984?profile=pass
-#EXTINF:-1 tvg-id="CTV.Nature.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-nature-channel-ca.png" group-title="AriaPlus - Canada",CTV Nature
 https://theariatv.github.io/channeldead.mp4
+#EXTINF:-1 tvg-id="CTV.Nature.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-nature-channel-ca.png" group-title="AriaPlus - Canada",CTV Nature
+http://38.143.48.212:9981/stream/channelid/1405285984?profile=pass
 #EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-logo="https://media.starlite.best/ctv.news.channel.ca.png" group-title="AriaPlus - Canada",CTV News
 http://38.143.48.212:9981/stream/channelid/1877863586?profile=pass
 #EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-logo="https://media.starlite.best/ctv.news.channel.ca.png" group-title="AriaPlus - Canada",CTV News
@@ -266,9 +266,9 @@ http://38.143.48.212:9981/stream/channelid/587702128?profile=pass
 #EXTINF:-1 tvg-id="CTV.(CFTO).Toronto group-title="AriaPlus - Canada",.ON.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png",CTV Toronto (CTFO)
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.cfto.toronto.on.ca.m3u8
 #EXTINF:-1 tvg-id="CTV.Wild.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-wild-channel-ca.png" group-title="AriaPlus - Canada",CTV Wild
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40775.ts
-#EXTINF:-1 tvg-id="CTV.Wild.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-wild-channel-ca.png" group-title="AriaPlus - Canada",CTV Wild
 http://38.143.48.212:9981/stream/channelid/2101272479?profile=pass
+#EXTINF:-1 tvg-id="CTV.Wild.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-wild-channel-ca.png" group-title="AriaPlus - Canada",CTV Wild
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40775.ts
 #EXTINF:-1 tvg-id="CTV.(CKY).Winnipeg group-title="AriaPlus - Canada",.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png",CTV Winnipeg (CKY)
 http://38.143.48.212:9981/stream/channelid/741174107?profile=pass
 #EXTINF:-1 tvg-id="CTV2.Barrie group-title="AriaPlus - Canada",.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png",CTV2 Barrie (CKVR)
@@ -300,9 +300,9 @@ http://user.scalecdn.co:8080/live/26725074/92867131/505940.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="AriaPlus - Canada",FAITH TV
 http://user.scalecdn.co:8080/live/26725074/92867131/93121.ts
 #EXTINF:-1 tvg-id="Family.Channel.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/family-ca.png" group-title="AriaPlus - Canada",Family Channel
-http://38.143.48.212:9981/stream/channelid/653225259?profile=pass
-#EXTINF:-1 tvg-id="Family.Channel.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/family-ca.png" group-title="AriaPlus - Canada",Family Channel
 http://96.45.207.18:8881/channel/110dd756/index.m3u8?q=1735600584362
+#EXTINF:-1 tvg-id="Family.Channel.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/family-ca.png" group-title="AriaPlus - Canada",Family Channel
+http://38.143.48.212:9981/stream/channelid/653225259?profile=pass
 #EXTINF:-1 tvg-id="Family.Channel.Canada.-.West.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/family-ca.png" group-title="AriaPlus - Canada",Family Channel West
 http://user.scalecdn.co:8080/live/26725074/92867131/647744.ts
 #EXTINF:-1 tvg-id="Family.Jr..ca" tvg-logo="https://media.starlite.best/family.jr.ca.png" group-title="AriaPlus - Canada",Family Jr
@@ -342,23 +342,23 @@ http://user.scalecdn.co:8080/live/26725074/92867131/88027.ts
 #EXTINF:-1 tvg-id="Global.News.BC1.ca" tvg-logo="https://globalnews.ca/wp-content/uploads/2015/01/BC1-pos-hor.png?w=320" group-title="AriaPlus - Canada",Global News BC1
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112775.ts
 #EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="AriaPlus - Canada",Global Toronto (CIII)
-http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
-#EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="AriaPlus - Canada",Global Toronto (CIII)
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40703.ts
+#EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="AriaPlus - Canada",Global Toronto (CIII)
+http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
 #EXTINF:-1 tvg-id="HBO1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-1-ca.png" group-title="AriaPlus - Canada",HBO
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40697.ts
 #EXTINF:-1 tvg-id="HBO.2.HD.(HBO2).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-2-ca.png" group-title="AriaPlus - Canada",HBO 2
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40696.ts
 #EXTINF:-1 tvg-id="HGTV.CA.ca" tvg-logo="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png" group-title="AriaPlus - Canada",HGTV
-http://38.143.48.212:9981/stream/channelid/340929362?profile=pass
-#EXTINF:-1 tvg-id="HGTV.CA.ca" tvg-logo="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png" group-title="AriaPlus - Canada",HGTV
 http://kstv.us:8080/live/Purn3542/38791114838/40695.ts
+#EXTINF:-1 tvg-id="HGTV.CA.ca" tvg-logo="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png" group-title="AriaPlus - Canada",HGTV
+http://38.143.48.212:9981/stream/channelid/340929362?profile=pass
 #EXTINF:-1 tvg-id="historia.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Historia_2022_logo.webp" group-title="AriaPlus - Canada",Historia
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40694.ts
 #EXTINF:-1 tvg-id="History.Canada.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/history-channel-ca.png" group-title="AriaPlus - Canada",History
-http://38.143.48.212:9981/stream/channelid/399303638?profile=pass
-#EXTINF:-1 tvg-id="History.Canada.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/history-channel-ca.png" group-title="AriaPlus - Canada",History
 https://tvnow.best/api/stream/burns/burns/livetv.epg/history.canada.east.ca.m3u8
+#EXTINF:-1 tvg-id="History.Canada.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/history-channel-ca.png" group-title="AriaPlus - Canada",History
+http://38.143.48.212:9981/stream/channelid/399303638?profile=pass
 #EXTINF:-1 tvg-id="History.2.Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg" group-title="AriaPlus - Canada",History 2
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112783.ts
 #EXTINF:-1 tvg-id="Home.Network.ca" tvg-logo="https://i.ibb.co/fGMcLQTP/Home-Network-logo-svg.png" group-title="AriaPlus - Canada",Home Network
@@ -444,29 +444,29 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40624.ts
 #EXTINF:-1 tvg-id="Silver.Screen.Classics.ca" tvg-logo="https://media.starlite.best/silver.screen.classics.ca.png" group-title="AriaPlus - Canada",Silver Screen Classic
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40623.ts
 #EXTINF:-1 tvg-id="slice.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/slice-ca.png" group-title="AriaPlus - Canada",Slice
-http://38.143.48.212:9981/stream/channelid/1542245415?profile=pass
-#EXTINF:-1 tvg-id="slice.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/slice-ca.png" group-title="AriaPlus - Canada",Slice
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40622.ts
+#EXTINF:-1 tvg-id="slice.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/slice-ca.png" group-title="AriaPlus - Canada",Slice
+http://38.143.48.212:9981/stream/channelid/1542245415?profile=pass
 #EXTINF:-1 tvg-id="Smithsonian.Channel.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/smithsonian-channel-ca.png" group-title="AriaPlus - Canada",Smithsonian Channel
 http://38.143.48.212:9981/stream/channelid/254901251?profile=pass
 #EXTINF:-1 tvg-id="sportsman.channel.ca" tvg-logo="https://www.sportsmancanada.ca/wp-content/uploads/2019/01/sportsman-canada-logo-01.png" group-title="AriaPlus - Canada",Sportsman Channel
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112866.ts
 #EXTINF:-1 tvg-id="sportsnet.360.ca" tvg-logo="https://media.starlite.best/sportsnet.360.ca.png" group-title="AriaPlus - Canada",Sportsnet 360
-http://38.143.48.212:9981/stream/channelid/1618628267?profile=pass
-#EXTINF:-1 tvg-id="sportsnet.360.ca" tvg-logo="https://media.starlite.best/sportsnet.360.ca.png" group-title="AriaPlus - Canada",Sportsnet 360
 http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228742.ts
+#EXTINF:-1 tvg-id="sportsnet.360.ca" tvg-logo="https://media.starlite.best/sportsnet.360.ca.png" group-title="AriaPlus - Canada",Sportsnet 360
+http://38.143.48.212:9981/stream/channelid/1618628267?profile=pass
 #EXTINF:-1 tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.east.ca.png" group-title="AriaPlus - Canada",Sportsnet East
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2045.ts
 #EXTINF:-1 tvg-id="sportsnet.one.ca" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" group-title="AriaPlus - Canada",Sportsnet One
-http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2046.ts
-#EXTINF:-1 tvg-id="sportsnet.one.ca" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" group-title="AriaPlus - Canada",Sportsnet One
 http://38.143.48.212:9981/stream/channelid/390027408?profile=pass
+#EXTINF:-1 tvg-id="sportsnet.one.ca" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" group-title="AriaPlus - Canada",Sportsnet One
+http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2046.ts
 #EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://media.starlite.best/sportsnet.ontario.ca.png" group-title="AriaPlus - Canada",Sportsnet Ontario
 http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228746.ts
 #EXTINF:-1 tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png" group-title="AriaPlus - Canada",Sportsnet Pacific
-http://38.143.48.212:9981/stream/channelid/1546770827?profile=pass
-#EXTINF:-1 tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png" group-title="AriaPlus - Canada",Sportsnet Pacific
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2049.ts
+#EXTINF:-1 tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png" group-title="AriaPlus - Canada",Sportsnet Pacific
+http://38.143.48.212:9981/stream/channelid/1546770827?profile=pass
 #EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-logo="https://media.starlite.best/sportsnet.west.ca.png" group-title="AriaPlus - Canada",Sportsnet West
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2050.ts
 #EXTINF:-1 tvg-id="STARZ1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/starz-1-ca.png" group-title="AriaPlus - Canada",STARZ
@@ -5533,10 +5533,10 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63d9509f1373
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63d9496e137315d10db2c806.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="PlexTV",FreeTV Hits
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6018913ea15130002b284191.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-logo="https://provider-static.plex.tv/epg/cms/production/94b42b07-1f67-4538-8220-6c83c9a456f5/FreeTVHorror_Circle_1500x1000_-_Ralph_Campillo.png" group-title="PlexTV",FreeTV Horror
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-63d954cc308687c7d9baa667" tvg-logo="https://provider-static.plex.tv/epg/cms/production/38736fa9-095c-47b6-82f6-b9585e9c5adb/FreeTVHorror_Circle_1500x1000_-_Ralph_Campillo.png" group-title="PlexTV",FreeTV Horror
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63d954cc308687c7d9baa667.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-logo="https://provider-static.plex.tv/epg/cms/production/94b42b07-1f67-4538-8220-6c83c9a456f5/FreeTVHorror_Circle_1500x1000_-_Ralph_Campillo.png" group-title="PlexTV",FreeTV Horror
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2aca9f2d-cd37-4e99-93c2-ea331d407008/FreeTVLive_logo_1500x1000RDX.png" group-title="PlexTV",FreeTV Live
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6018913ea15130002b28418f.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6576aebe-a538-473a-9f40-c8cea9fbeda8/FreeTVSaberM_s_Circle_1500x1000_-_Ralph_Campillo.png" group-title="PlexTV",FreeTV Saber Más
@@ -6915,10 +6915,10 @@ https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8
 https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
 #EXTINF:-1  tvg-name="CBS News 24/7" tvg-id="5a6b92f6e22a617379789618" tvg-logo="https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" tvg-chno="2530" group-title="PlutoTV - United Kingdom",CBS News 24/7
 https://jmp2.uk/plu-5a6b92f6e22a617379789618.m3u8
-#EXTINF:-1  tvg-name="CBS News Baltimore" tvg-id="62cdcdf7393d8400076f3df1" tvg-logo="https://images.pluto.tv/channels/62cdcdf7393d8400076f3df1/colorLogoPNG.png" tvg-chno="2540" group-title="PlutoTV - United Kingdom",CBS News Baltimore
-https://jmp2.uk/plu-62cdcdf7393d8400076f3df1.m3u8
 #EXTINF:-1  tvg-name="CBS News Baltimore" tvg-id="60f75919718aed0007250d7a" tvg-logo="https://images.pluto.tv/channels/60f75919718aed0007250d7a/colorLogoPNG-1643042747442.png" tvg-chno="5070" group-title="PlutoTV - United Kingdom",CBS News Baltimore
 https://jmp2.uk/plu-60f75919718aed0007250d7a.m3u8
+#EXTINF:-1  tvg-name="CBS News Baltimore" tvg-id="62cdcdf7393d8400076f3df1" tvg-logo="https://images.pluto.tv/channels/62cdcdf7393d8400076f3df1/colorLogoPNG.png" tvg-chno="2540" group-title="PlutoTV - United Kingdom",CBS News Baltimore
+https://jmp2.uk/plu-62cdcdf7393d8400076f3df1.m3u8
 #EXTINF:-1  tvg-name="CBS News Bay Area" tvg-id="5eb1afb21486df0007abc57c" tvg-logo="https://images.pluto.tv/channels/5eb1afb21486df0007abc57c/colorLogoPNG.png" tvg-chno="5080" group-title="PlutoTV - United Kingdom",CBS News Bay Area
 https://jmp2.uk/plu-5eb1afb21486df0007abc57c.m3u8
 #EXTINF:-1  tvg-name="CBS News Boston" tvg-id="5eb1af2ad345340008fccd1e" tvg-logo="https://images.pluto.tv/channels/5eb1af2ad345340008fccd1e/colorLogoPNG.png" tvg-chno="5090" group-title="PlutoTV - United Kingdom",CBS News Boston
@@ -6939,10 +6939,10 @@ https://jmp2.uk/plu-60fb299b79498900070b29e0.m3u8
 https://jmp2.uk/plu-62cdc8fdb05d2b0007ef5035.m3u8
 #EXTINF:-1  tvg-name="CBS News Minnesota" tvg-id="5eb1b0bf2240d8000732a09c" tvg-logo="https://images.pluto.tv/channels/5eb1b0bf2240d8000732a09c/colorLogoPNG.png" tvg-chno="5170" group-title="PlutoTV - United Kingdom",CBS News Minnesota
 https://jmp2.uk/plu-5eb1b0bf2240d8000732a09c.m3u8
-#EXTINF:-1  tvg-name="CBS News New York" tvg-id="5dc48170e280c80009a861ab" tvg-logo="https://images.pluto.tv/channels/5dc48170e280c80009a861ab/colorLogoPNG.png" tvg-chno="5180" group-title="PlutoTV - United Kingdom",CBS News New York
-https://jmp2.uk/plu-5dc48170e280c80009a861ab.m3u8
 #EXTINF:-1  tvg-name="CBS News New York" tvg-id="5dc9b8223687ff000936ed79" tvg-logo="https://images.pluto.tv/channels/5dc9b8223687ff000936ed79/colorLogoPNG.png" tvg-chno="2550" group-title="PlutoTV - United Kingdom",CBS News New York
 https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8
+#EXTINF:-1  tvg-name="CBS News New York" tvg-id="5dc48170e280c80009a861ab" tvg-logo="https://images.pluto.tv/channels/5dc48170e280c80009a861ab/colorLogoPNG.png" tvg-chno="5180" group-title="PlutoTV - United Kingdom",CBS News New York
+https://jmp2.uk/plu-5dc48170e280c80009a861ab.m3u8
 #EXTINF:-1  tvg-name="CBS News Philadelphia" tvg-id="5eb1b05ea168cc000767ba67" tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png" tvg-chno="5210" group-title="PlutoTV - United Kingdom",CBS News Philadelphia
 https://jmp2.uk/plu-5eb1b05ea168cc000767ba67.m3u8
 #EXTINF:-1  tvg-name="CBS News Pittsburgh" tvg-id="5eb1b17aa5277e00083f6521" tvg-logo="https://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png" tvg-chno="5220" group-title="PlutoTV - United Kingdom",CBS News Pittsburgh
@@ -7409,10 +7409,10 @@ https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
 #EXTINF:-1  tvg-name="Star Trek Voyager" tvg-id="634dacf51d90320007fcd5fa" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG.png" tvg-chno="850" group-title="PlutoTV - United Kingdom",Star Trek Voyager
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
-#EXTINF:-1  tvg-name="Star Trek: The Motion Pictures" tvg-id="6675c88da1d7ad00084762cb" tvg-logo="https://images.pluto.tv/channels/6675c88da1d7ad00084762cb/colorLogoPNG.png" tvg-chno="25" group-title="PlutoTV - United Kingdom",Star Trek: The Motion Pictures
-https://jmp2.uk/plu-6675c88da1d7ad00084762cb.m3u8
 #EXTINF:-1  tvg-name="Star Trek: The Motion Pictures" tvg-id="6695a2e4fe11e50008341303" tvg-logo="https://images.pluto.tv/channels/6695a2e4fe11e50008341303/colorLogoPNG.png" tvg-chno="856" group-title="PlutoTV - United Kingdom",Star Trek: The Motion Pictures
 https://jmp2.uk/plu-6695a2e4fe11e50008341303.m3u8
+#EXTINF:-1  tvg-name="Star Trek: The Motion Pictures" tvg-id="6675c88da1d7ad00084762cb" tvg-logo="https://images.pluto.tv/channels/6675c88da1d7ad00084762cb/colorLogoPNG.png" tvg-chno="25" group-title="PlutoTV - United Kingdom",Star Trek: The Motion Pictures
+https://jmp2.uk/plu-6675c88da1d7ad00084762cb.m3u8
 #EXTINF:-1  tvg-name="Stargate" tvg-id="620bfa7df72827000703ddb1" tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png" tvg-chno="860" group-title="PlutoTV - United Kingdom",Stargate
 https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8
 #EXTINF:-1  tvg-name="Stories by AMC" tvg-id="62f2ce24f328e00007e7f55a" tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png" tvg-chno="1070" group-title="PlutoTV - United Kingdom",Stories by AMC
@@ -13051,25 +13051,25 @@ https://tvpass.org/live/NickelodeonEast/sd
 https://tvpass.org/live/NicktoonsEast/hd
 #EXTINF:-1  tvg-name="Nicktoons East SD" tvg-id="nicktoons-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="TVPass",Nicktoons East SD
 https://tvpass.org/live/NicktoonsEast/sd
-#EXTINF:-1  tvg-name="NBC (WNBC) New York" tvg-id="nbc-wnbc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" group-title="TVPass",NY HD
-https://tvpass.org/live/WNET/hd
 #EXTINF:-1  tvg-name="ABC (WABC) New York" tvg-id="abc-wabc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" group-title="TVPass",NY HD
+https://tvpass.org/live/WNET/hd
+#EXTINF:-1  tvg-name="FOX (WNYW) New York" tvg-id="fox-wnyw-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="TVPass",NY HD
 https://tvpass.org/live/WNET/hd
 #EXTINF:-1  tvg-name="PBS (WNET) New York" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" group-title="TVPass",NY HD
 https://tvpass.org/live/WNET/hd
-#EXTINF:-1  tvg-name="FOX (WNYW) New York" tvg-id="fox-wnyw-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="TVPass",NY HD
+#EXTINF:-1  tvg-name="NBC (WNBC) New York" tvg-id="nbc-wnbc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" group-title="TVPass",NY HD
 https://tvpass.org/live/WNET/hd
 #EXTINF:-1  tvg-name="CBS (WCBS) New York " tvg-id="cbs-wcbs-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="TVPass",NY HD
 https://tvpass.org/live/WNET/hd
 #EXTINF:-1  tvg-name="NBC (WNBC) New York" tvg-id="nbc-wnbc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" group-title="TVPass",NY SD
+https://tvpass.org/live/WNET/sd
+#EXTINF:-1  tvg-name="ABC (WABC) New York " tvg-id="abc-wabc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" group-title="TVPass",NY SD
 https://tvpass.org/live/WNET/sd
 #EXTINF:-1  tvg-name="CBS (WCBS) New York " tvg-id="cbs-wcbs-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="TVPass",NY SD
 https://tvpass.org/live/WNET/sd
 #EXTINF:-1  tvg-name="PBS (WNET) New York" tvg-id="pbs-wnet-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" group-title="TVPass",NY SD
 https://tvpass.org/live/WNET/sd
 #EXTINF:-1  tvg-name="FOX (WNYW) New York " tvg-id="fox-wnyw-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="TVPass",NY SD
-https://tvpass.org/live/WNET/sd
-#EXTINF:-1  tvg-name="ABC (WABC) New York " tvg-id="abc-wabc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" group-title="TVPass",NY SD
 https://tvpass.org/live/WNET/sd
 #EXTINF:-1  tvg-name="Oprah Winfrey Network USA Eastern HD" tvg-id="oprah-winfrey-network-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="TVPass",Oprah Winfrey Network USA Eastern HD
 https://tvpass.org/live/OWNEast/hd
