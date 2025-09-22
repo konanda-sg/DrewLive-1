@@ -284,17 +284,17 @@ http://181.78.4.250:8098/play/a08x/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="AriaPlus - United States",ESPN
 http://201.230.121.186:8000/play/a0fi/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="AriaPlus - United States",ESPN Premium
-http://201.230.121.186:8000/play/a0n6/index.m3u8
+http://38.250.127.17:9800/play/a05x/index.m3u8
 #EXTINF:-1 tvg-logo="https://telepez.github.io/imagenes/ESPN2.webp" group-title="AriaPlus - United States",ESPN 2
-http://201.230.121.186:8000/play/a0kd/index.m3u8
+http://38.250.127.17:9800/play/a08q/index.m3u8
 #EXTINF:-1 tvg-logo="https://telepez.github.io/imagenes/ESPN3.webp" group-title="AriaPlus - United States",ESPN 3
 http://201.230.121.186:8000/play/a0jg/index.m3u8
 #EXTINF:-1 tvg-logo="https://telepez.github.io/imagenes/ESPN4.webp" group-title="AriaPlus - United States",ESPN 4
-http://201.230.121.186:8000/play/a0mv/index.m3u8
+http://38.250.127.17:9800/play/a05l/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="AriaPlus - United States",ESPN 5
-http://201.230.121.186:8000/play/a0ij/index.m3u8
+http://38.250.127.17:9800/play/a06f/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1200px-ESPN_6_logo.svg.png" group-title="AriaPlus - United States",ESPN 6
-http://201.230.121.186:8000/play/a0mx/index.m3u8
+http://38.250.127.17:9800/play/a05n/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="AriaPlus - United States",ESPN 7
 http://201.230.121.186:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="AriaPlus - United States",Food Network
@@ -325,6 +325,8 @@ http://181.78.4.250:8098/play/a08h/index.m3u8
 http://181.78.4.250:8098/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="AriaPlus - United States",Nick Jr.
 http://181.78.4.250:8098/play/a08y/index.m3u8
+#EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/03/LOGO-KKANAL-D_00299_dark.png" group-title="AriaPlus - United States",Kanal D Drama
+http://38.250.127.17:9800/play/a076/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/250px-LRT_Plius_Logo_2022.svg.png" group-title="AriaPlus - United States",LRT Plius
 http://78.56.193.170:9981/stream/channelid/2006312263?profile=pass
 #EXTINF:-1 tvg-logo="hthttps://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/TV3_Plus_Logo_2021.svg/1200px-TV3_Plus_Logo_2021.svg.png" group-title="AriaPlus - United States",TV3 Plus
