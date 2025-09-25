@@ -2817,11 +2817,6 @@ http://1tv41.icu:8080/5ZCJFs/416986/78918
 http://1tv41.icu:8080/5ZCJFs/416986/66077
 
 #EXTGRP:DrewLive Fan Made TV
-#EXTINF:-1  tvg-name="Akademiks" tvg-id="24.7.Dummy.us" tvg-logo="https://1a-1791.com/video/z8/g/V/-/k/gV-ka.baa-Akademiks-rtjuvp.jpeg" group-title="DrewLive Fan Made TV" radio="false",Akademiks
-#EXTVLCOPT:http-origin=https://rumble.com
-#EXTVLCOPT:http-referrer=https://rumble.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://1a-1791.com/live/t34ch9px/slot-120/xf6c-miv1_1080p/chunklist_DVR.m3u8
 #EXTINF:-1  tvg-name="Cannabis Grow" tvg-id="24.7.Dummy.us" tvg-logo="https://grow.dwot.io/logo" group-title="DrewLive Fan Made TV" radio="false",Cannabis Grow
 https://grow.dwot.io/hls/1/stream.m3u8?cachebust=7ad5acb5
 #EXTINF:-1  tvg-name="Drew Live" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Trunks.png" group-title="DrewLive Fan Made TV" radio="false",Drew Live
@@ -2858,6 +2853,8 @@ https://1a-1791.com/live/gke17oc4/slot-148/7ry7-12m4_1080p/chunklist_DVR.m3u8
 https://1a-1791.com/live/gke17oc4/slot-36/ip5y-rfkl_1080p/chunklist_DVR.m3u8
 #EXTINF:-1  tvg-name="Retro Blast" tvg-id="24.7.Dummy.us" tvg-logo="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/01/shutterstock_2221828967.jpg" group-title="DrewLive Fan Made TV" radio="false",Retro Blast
 https://retroblast.tv/hls/0/stream.m3u8?cachebust=f224d41f
+#EXTINF:-1  tvg-name="Spark TV" tvg-id="24.7.Dummy.us" tvg-logo="https://www.webchnl.live/assets/img/channelicons/spark.png" group-title="DrewLive Fan Made TV" radio="false",Spark TV
+https://rhine.webchnl.live/memfs/52b4200e-6ea9-4119-be31-0e73fa9c7d64.m3u8
 #EXTINF:-1  tvg-name="Swim Rewind" tvg-id="24.7.Dummy.us" tvg-logo="https://swimrewind.com/logo" group-title="DrewLive Fan Made TV" radio="false",Swim Rewind
 https://swimrewind.com/hls/0/stream.m3u8?cachebust=215d168f
 #EXTINF:-1  tvg-name="Synthwave Radio 🌌 - beats to chill/game to" tvg-id="24.7.Dummy.us" tvg-logo="https://1a-1791.com/video/z8/P/P/4/g/PP4ga.baa.3-LofiGirl-smjcy4.png" group-title="DrewLive Fan Made TV" radio="false",Synthwave Radio 🌌 - beats to chill/game to
@@ -2882,11 +2879,6 @@ http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 https://1a-1791.com/live/r31jzt5k/live-hls/62ya-6ier/chunklist_480p_i1_DVR.m3u8
 #EXTINF:-1  tvg-name="Whiplash" tvg-id="24.7.Dummy.us" tvg-logo="https://www.webchnl.live/assets/img/channelicons/whiplash.png" group-title="DrewLive Fan Made TV" radio="false",Whiplash
 https://rhine.webchnl.live/memfs/ac0f016c-e39c-4fa5-885d-b90aec65b076.m3u8
-#EXTINF:-1  tvg-name="⭐ Bounty Hunting on GTA⭐" tvg-id="24.7.Dummy.us" tvg-logo="https://1a-1791.com/video/z0/y/W/z/L/yWzLg.asF.2-1trpqw-t2z1ep.jpeg" group-title="DrewLive Fan Made TV" radio="false",⭐ Bounty Hunting on GTA⭐
-#EXTVLCOPT:http-origin=https://rumble.com
-#EXTVLCOPT:http-referrer=https://rumble.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://1a-1791.com/live/r31jzt5k/live-hls/y0v9-321r/chunklist_i1_DVR.m3u8
 
 #EXTGRP:DrewLive Music Video Channels
 #EXTINF:-1  tvg-name="iHeartRadio Hip Hop Beats" tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/9995103/600x337.webp?type=channelTile" group-title="DrewLive Music Video Channels" radio="false",iHeartRadio Hip Hop Beats
