@@ -12073,11 +12073,6 @@ https://gg.poocloud.in/newenglandpatriots/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/lasvegasraiders/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Cincinnati Bengals vs. Denver Broncos" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAQxQVmAKYKzD7zASl7DlrDCYrqSHb3BjB0DGXCm+ACYd0IAiBgTm5WmACcrBXSzyKmciiq4S+bpvpgi8FgoINSNDoYqsIQA.webp" group-title="StreamedSU - American Football",Cincinnati Bengals vs. Denver Broncos
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/denverbroncos/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Cleveland Browns vs. Detroit Lions" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NL2AATECxCIQOYBBDmLU+lZCOOvb+WvYvjs6WdohCzgHuzqoEMMB4enRgLAoQnKxYcWJgSQ7pEEA.webp" group-title="StreamedSU - American Football",Cleveland Browns vs. Detroit Lions
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -12135,24 +12130,94 @@ https://gg.poocloud.in/houstontexans/index.m3u8
 https://gg.poocloud.in/atlantafalcons/index.m3u8
 
 #EXTGRP:StreamedSU - Baseball
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Athletics vs Kansas City Royals" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA.webp" group-title="StreamedSU - Baseball",Athletics vs Kansas City Royals
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/athletics/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves vs Pittsburgh Pirates" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA.webp" group-title="StreamedSU - Baseball",Atlanta Braves vs Pittsburgh Pirates
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/braves/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox vs Detroit Tigers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoxanABNKIbiBL6QEEDBCIcevmYIUmfNWzBl4ReaLVNaYJ2NEQgA.webp" group-title="StreamedSU - Baseball",Boston Red Sox vs Detroit Tigers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/redsox/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs vs St. Louis Cardinals" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",Chicago Cubs vs St. Louis Cardinals
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/cubs/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians vs Texas Rangers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Baseball",Cleveland Guardians vs Texas Rangers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/guardians/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels vs Houston Astros" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA.webp" group-title="StreamedSU - Baseball",Los Angeles Angels vs Houston Astros
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/angels/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels vs Kansas City Royals" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA.webp" group-title="StreamedSU - Baseball",Los Angeles Angels vs Kansas City Royals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/angels/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins vs New York Mets" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA.webp" group-title="StreamedSU - Baseball",Miami Marlins vs New York Mets
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/marlins/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers vs Cincinnati Reds" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA.webp" group-title="StreamedSU - Baseball",Milwaukee Brewers vs Cincinnati Reds
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/brewers/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees vs Baltimore Orioles" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA.webp" group-title="StreamedSU - Baseball",New York Yankees vs Baltimore Orioles
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/yankees/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies vs Minnesota Twins" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - Baseball",Philadelphia Phillies vs Minnesota Twins
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/phillies/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres vs Arizona Diamondbacks" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",San Diego Padres vs Arizona Diamondbacks
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/padres/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants vs Colorado Rockies" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphx8w3EABNgABkogNmkMb5aQMYyEQoQywjGBM+KLmDLwi80S6a0wbsVEIIA.webp" group-title="StreamedSU - Baseball",San Francisco Giants vs Colorado Rockies
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/giants/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners vs Colorado Rockies" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphx8w3EABNgABkogNmkMb5aQMYyEQoQywjGBM+KLmDLwi80S6a0wbsVEIIA.webp" group-title="StreamedSU - Baseball",Seattle Mariners vs Colorado Rockies
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/mariners/index.m3u8
-
-#EXTGRP:StreamedSU - Fight
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://i.imgur.com/QlBOQft.png" group-title="StreamedSU - Fight",AEW: Saturday Night Collision
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners vs Los Angeles Dodgers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphi5KwJCAAmIRN20HEIYyBQg+J+AQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",Seattle Mariners vs Los Angeles Dodgers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/wrestling/index.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="TNA: Impact" tvg-logo="https://i.imgur.com/QlBOQft.png" group-title="StreamedSU - Fight",TNA: Impact
+https://gg.poocloud.in/mariners/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays vs Tampa Bay Rays" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",Toronto Blue Jays vs Tampa Bay Rays
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/bluejays/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals vs Chicago White Sox" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA.webp" group-title="StreamedSU - Baseball",Washington Nationals vs Chicago White Sox
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nationals/index.m3u8
+
+#EXTGRP:StreamedSU - Fight
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://i.imgur.com/QlBOQft.png" group-title="StreamedSU - Fight",AEW: Saturday Night Collision
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
