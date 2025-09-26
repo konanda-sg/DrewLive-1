@@ -12395,6 +12395,11 @@ https://gg.poocloud.in/bluejays/index.m3u8
 https://gg.poocloud.in/nationals/index.m3u8
 
 #EXTGRP:StreamedSU - Basketball
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="76ers at Knicks (NBA Abu Dhabi Game)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="StreamedSU - Basketball",76ers at Knicks (NBA Abu Dhabi Game)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/knicks/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Aces at Fever (Game 3)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="StreamedSU - Basketball",Aces at Fever (Game 3)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
