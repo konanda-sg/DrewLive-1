@@ -309,6 +309,8 @@ http://181.78.4.250:8098/play/a07c/index.m3u8
 http://181.78.4.250:8098/play/a090/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/star-channel-br.png" group-title="AriaPlus - United States",Star Channel
 http://181.78.4.250:8098/play/a061/index.m3u8
+#EXTINF:-1 SONY CHANNEL group-title="AriaPlus - United States",
+https://netplay.sv/multimedia/live/canal-035/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/paramount-network-us.png" group-title="AriaPlus - United States",Paramount Network
 http://181.78.4.250:8098/play/a079/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/animal-planet-us.png" group-title="AriaPlus - United States",Animal Planet
